@@ -1,3 +1,9 @@
+## Author: Alex Cope
+## Script for analyzing CUB
+## Contains a modified form of the CAI function found in AnaCoDa that should reduce potential numerical issues.
+## Some filepaths are hardcoded and will need to be changed.
+## The file ecolik12.trna can be found on the github page for the tAI package
+
 library(AnaCoDa)
 library(tAI)
 
@@ -21,7 +27,7 @@ getCAIweights <- function(referenceGenome)
   }
   
   wi.vec <- unlist(wi.list)
-  wi.vec[wi.vec == 0.0] <- 0.5
+  wi.vec[wi.vec == 0.0] <- 0.0001
   names(wi.vec) <- codon.names
   return(wi.vec)
 }
@@ -63,9 +69,6 @@ getCAI <- function(referenceGenome, testGenome)
 
 
 ribo<- initializeGenomeObject("../Data/Genomes/ribo_prot.fasta")
-#sp <- initializeGenomeObject("../Data/Genomes/Signal_peptides/sp_main.fasta")
-#sp.cai <- getCAI(ribo,sp)
-#nosp <- initializeGenomeObject("../Data/Genomes/Simulated/Simulated_sp/sp_sim_4.fasta")
 pval<-c()
 sp.total <- c()
 nosp.total <- c()
@@ -82,44 +85,27 @@ for (i in 1:500)
   pval<-c(pval,x$p.value)
 }
 hist(pval,breaks=seq(0,1,0.05),ylim = c(0,500))
-write(pval,file = "../test.txt",ncolumns = 1)
-# pval<-c()
-# sp.total <- c()
-# nosp.total <- c()
-# eco.trna <- scan("~/tai/misc/ecolik12.trna")
-# eco.ws <- get.ws(tRNA = eco.trna,sking=1)
-# for (i in 1:500)
-# {
-#   cat(i,"\n")
-#   sp.m <- matrix(scan(paste0("../Data/Genomes/Simulated/Simulated_sp/sp_sim_",i,".m")),ncol=61,byrow=TRUE)
-#   nosp.m <- matrix(scan(paste0("../Data/Genomes/Simulated/Simulated_nosp_aa_norm/nosp_sim_",i,".m")),ncol=61,byrow=TRUE)
-#   sp.m <- sp.m[,-33]
-#   nosp.m <- nosp.m[,-33]
-#   sp.tai <- get.tai(sp.m,eco.ws)
-#   nosp.tai <- get.tai(nosp.m,eco.ws)
-#   sp.total <- c(sp.total,sp.tai)
-#   nosp.total <- c(nosp.total,nosp.tai)
-#   x<-t.test(sp.tai,nosp.tai,alternative="greater")
-#   pval<-c(pval,x$p.value)
-# }
-# hist(pval,breaks=seq(0,1,0.05))
-# write(pval,file = "../test_tai.txt",ncolumns = 1)
+write(pval,file = "../pval.txt",ncolumns = 1)
+pval<-c()
+sp.total <- c()
+nosp.total <- c()
+eco.trna <- scan("~/tai/misc/ecolik12.trna")
+eco.ws <- get.ws(tRNA = eco.trna,sking=1)
+for (i in 1:500)
+{
+  cat(i,"\n")
+  sp.m <- matrix(scan(paste0("../Data/Genomes/Simulated/Simulated_sp/sp_sim_",i,".m")),ncol=61,byrow=TRUE)
+  nosp.m <- matrix(scan(paste0("../Data/Genomes/Simulated/Simulated_nosp_aa_norm/nosp_sim_",i,".m")),ncol=61,byrow=TRUE)
+  sp.m <- sp.m[,-33]
+  nosp.m <- nosp.m[,-33]
+  sp.tai <- get.tai(sp.m,eco.ws)
+  nosp.tai <- get.tai(nosp.m,eco.ws)
+  sp.total <- c(sp.total,sp.tai)
+  nosp.total <- c(nosp.total,nosp.tai)
+  x<-t.test(sp.tai,nosp.tai,alternative="greater")
+  pval<-c(pval,x$p.value)
+}
+hist(pval,breaks=seq(0,1,0.05))
+write(pval,file = "../pval_tai.txt",ncolumns = 1)
 
 
-#sp.cai <- getCAI(ribo,sp)
-#nosp.cai <- getCAI(ribo,nosp)
-#sp.cai <- sp.cai[which(sp.cai!=0)]
-#nosp.cai <- nosp.cai[which(nosp.cai!=0)]
-# 
-# 
-# eco.trna <- scan("~/tai/misc/ecolik12.trna")
-# eco.ws <- get.ws(tRNA = eco.trna,sking=1)
-# sp.m <- matrix(scan("../Data/Genomes/Signal_peptides/sp_main.m"),ncol=61,byrow=TRUE)
-# nosp.m <- matrix(scan("../Python_scripts/pseudo_sp_aa_norm.m"),ncol=61,byrow=TRUE)
-# sp.m <- sp.m[,-33]
-# nosp.m <- nosp.m[,-33]
-# sp.tai <- get.tai(sp.m,eco.ws)
-# nosp.tai <- get.tai(nosp.m,eco.ws)
-
-#x<- t.test(sp.cai,nosp.cai,alternative="less")
-#y<- wilcox.test(sp.tai,nosp.tai,alternative="less")
