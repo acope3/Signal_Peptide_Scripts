@@ -1,0 +1,14 @@
+Genome:Data/Genomes/Ecoli_K12_MG1655_main_pht.fasta
+Modified Genome:Data/Genomes/Scerevisiae/mod_scerevisiae.fasta
+CodonW Genome:/home/alex/codonW/Bsubtilis/bsubtilis.dat
+Filter:Data/bsubtilis_groups.csv
+SignalP Output:Data/Proteomes/Ecoli_K12_ncbi/ecoli_k12_signalp_3.0_sensitivity.gff
+Mature Peptide Fasta:Data/Genomes/Ecoli_K12_ncbi/main_ht/mp_main_75_test.fasta
+Signal Peptide Fasta:Data/Genomes/Ecoli_K12_ncbi/main_ht/sp_main_75_test.fasta
+Non-signal peptide Fasta:Data/Genomes/Ecoli_K12_ncbi/main_ht/nosp_main_75_test.fasta
+Signal peptide genes Fasta:Data/Genomes/Ecoli_K12_ncbi/main_ht/sp_genes_main_75_test.fasta
+Locus ID RegXP:locus_tag=(BSU[0-9]{5})
+Protein ID RegXP:[Y|N]P_[0-9]{0,10}\.[1-9]
+Expression Input:Data/Empirical/Emp_Phi/Ecoli_emp_phi.csv
+Genome Folder:Data/Genomes/Mature_peptides/
+Expression Output:Data/Empirical/Emp_Phi/Mature_peptides/

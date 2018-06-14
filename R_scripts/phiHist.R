@@ -1,0 +1,13 @@
+library(ggplot2)
+
+sp <- read.table("../Data/Empirical/ROC_Phi/Signal_peptides/sp_main_phi.csv",sep=",",header=T)
+psp <- read.table("../Data/Empirical/ROC_Phi/Pseudo_signal/pseudo_sp_main_norm_phi.csv",sep=",",header=T)
+nosp <- read.table("../Data/Empirical/ROC_Phi/nosp_main_phi.csv",sep=",",header=T)
+sp[,2] <- log(sp[,2])
+psp[,2] <- log(psp[,2])
+nosp[,2] <- log(nosp[,2])
+df <- rbind(sp,psp,nosp)
+df[,3] <- c(rep("Signal",length(sp[,2])),rep("Pseudo",length(psp[,2])),rep("Nonsecretory",length(nosp[,2])))
+colnames(df) <- c("Gene","Phi","Category")
+p<-ggplot(df,aes(x=Phi, color=Category)) + geom_density() + xlab(label = expression("log"[10]*phi)) + ggtitle(label = expression("Distribution of Log"[10]*phi)) + theme(plot.title = element_text(hjust = 0.5))
+ggsave(filename = "phi_distribution.pdf",dpi = 300)
