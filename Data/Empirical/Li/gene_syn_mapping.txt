@@ -1,0 +1,196 @@
+Gene Symbol and Synonyms	Gene Synonyms	
+satP	ECK0010; yaaH; JW0009; b0010	
+cra	JW0078; shl; fruC; fruR; serR?; b0080; ECK0081; fruS?	
+zapD	b0102; ECK0102; JW0099; yacF	
+gluQ	JW5892; b0144; yadB; ECK0143	
+arfB	JW0187; yaeJ; ECK0191; b0191	
+tsaA	ECK0195; JW0191; yaeB; b0195	
+gmhA	JW0212; lpcA; yafI; tfrA; b0222; isn; ECK0223	
+ecpE	b0289; JW5030; matF; ECK0288; yagV	
+ecpC	b0291; JW0285; yagX; ECK0290; matD	
+ecpB	yagY; matC; b0292; JW0286; ECK0291	
+ecpA	JW0287; matB; ECK0292; b0293; yagZ	
+yaiC	ECK0380; adrA; b0385; JW0376	
+mscK	pnuH; aefA; ECK0459; b0465; kefA; JW0454	
+dnaX	dnaZ; JW0459; ECK0464; b0470	
+glsA	glsA1; ybaS; ECK0479; b0485; JW0474	
+fetB	b0491; ybbM; ECK0485; JW5066	
+mnmH	selE; b0503; ybbB; ECK0496; JW0491; selU	
+allE	ughY; JW0503; ylbA; glxB6; ECK0508; b0515	
+ylbE	JW0507; ECK0512; JW0508; b4572	
+ybdG	JW0566; mscM; ECK0569; b0577	
+citA	dpiB; b0619; ECK0612; mpdB; JW0611; criS; ybeP	
+citB	b0620; ECK0613; dpiA; JW0612; mpdA; criR	
+rsfS	JW5090; slm3; rsfA; ybeB; ECK0630; b0637	
+umpH	nagD; JW0661; b0675; ECK0663	
+cydX	ybgT; ECK0723; JW0724; b4515	
+acrZ	ECK0751; b0762; ybhT; JW5102	
+clsB	ECK0778; b0789; JW0772; ybhO	
+opgE	ybiP; ECK0804; JW0800; b0815	
+ldtB	ybiS; ECK0809; JW0803; b0819	
+gstB	JW0822; ECK0828; yliJ; b0838	
+rcdA	ECK0836; JW5114; ybjK; rcdR; b0846	
+rlmC	rumB; JW0843; b0859; ECK0850; ybjF	
+elyC	ECK0911; b0920; JW0903; ycbC	
+ldtD	ECK0916; ycbB; JW0908; b0925	
+zapC	JW5125; ECK0937; ycbW; b0946	
+pqiC	JW5127; ymbA; b0952; ECK0943	
+tusE	JW0952; yccK; b0969; ECK0960	
+cbdA	JW0960; appC; ECK0969; cyxA; b0978	
+cbdB	b0979; ECK0970; JW0961; appB; cyxB	
+cbdX	ECK4402; b4592; appX; yccB	
+clsC	b1046; ECK1032; JW5150; ymdC	
+lpoB	JW5157; ECK1091; ycfM; b1105	
+ldtC	ycfS; ECK1099; JW5820; b1113	
+roxA	JW1114; ycfD; ECK1114; b1128	
+dauA	ychM; JW5189; ECK1194; b1206	
+clsA	b1249; nov; yciJ; cls; ECK1243; JW1241	
+smrA	JW1334; ydaL; b1340; ECK1337	
+pfo	soi-9; b1378; ECK1374; JW1372; ydbK; nifJ	
+patD	prr; JW1439; ydcW; b1444; ECK1438	
+mnaT	JW5233; b1448; ECK1442; yncA	
+curA	ECK1443; JW5907; b1449; yncB	
+glsB	JW1517; glsA2; b1524; ECK1517; yneH	
+rspR	JW1533; b1540; ECK1533; ydfH	
+mlc	ECK1589; JW1586; dgsA; b1594	
+gstA	b1635; JW1627; gst; ECK1631	
+mepH	ydhO; ECK1651; b1655; JW5270	
+ldtE	JW1668; ynhG; ECK1674; b1678	
+menI	JW1676; ECK1683; b1686; ydiI	
+tsaB	ECK1805; JW1796; b1807; rpf; yeaZ	
+yoaD	JW1804; adrB; b1815; ECK1813	
+mntP	ECK1819; yebN; JW5830; b1821	
+msrC	JW1821; b1832; ECK1831; yebR	
+mepM	ECK1857; yebA; b1856; JW5304	
+cbeA	ECK1997; yeeU; b2004; JW1986	
+cbtA	JW1987; yeeV; b2005; ECK1998	
+plaP	JW5330; ECK2008; b2014; yeeF	
+wcaN	JW2027; b2042; ECK2036; galF	
+wcaH	b2051; yefC; ECK2045; JW5335; gmm; nudD	
+wcaG	b2052; yefB; ECK2046; JW2037; fcl	
+iceT	ECK2073; mdtD; b2077; JW2062; yegB	
+rcnB	yohN; ECK2100; JW5346; b2107	
+preT	preB; JW2133; yeiT; b2146; ECK2139; dpdA	
+preA	b3025; JW2993; ECK3016; ygiX; preA; b2147; JW2134; yeiA; ECK2140	
+dsbE	ECK2187; JW2183; ccmG; yejQ; b2195	
+epmC	ECK2320; yfcM; b2326; JW5381	
+smrB	b2331; ECK2325; yfcN; JW2328	
+bepA	ECK2490; yfgC; b2494; JW2479	
+iroK	ECK4518; b4706	
+pgpC	yfhB; ECK2558; JW5408; b2560	
+trmN	ECK2573; trmN6; b2575; yfiC; JW2559	
+grcA	ECK2577; JW2563; b2579; yfiD	
+pka	JW2568; patZ; yfiQ; ECK2582; pat; b2584	
+ratB	ECK2614; yfjF; pasI; JW2599; b2618	
+ratA	ECK2615; JW2600; yfjG; pasT; b2619	
+alaE	JW2645; ECK2664; b2670; ygaW	
+pncC	ygaD; JW2670; ECK2695; b2700	
+srlM	ECK2701; b2706; gutM; JW2675	
+srlQ	ECK2703; gutQ; b2708; JW5431	
+umpG	JW2714; ygbC; b2744; ECK2739; surE	
+queE	ECK2771; b2777; ygcF; JW2748	
+rlmD	rumA; ygcA; ECK2779; JW2756; b2785	
+tcdA	csdL; b2812; JW2783; ECK2808; ygdL	
+ghxQ	ECK2880; b4464; ygfR; JW5467; ygfQ	
+uacT	b2888; ygfU; JW5470; ECK2883	
+cptA	ECK3946; b3955; cptA; JW3927; yijP; ECK2891; pigV; ygfX; b2896; JW2864	
+sdhE	cptB; b2897; JW2865; ECK2892; ygfY	
+ubiI	JW2874; visC; ECK2901; b2906	
+fau	JW2879; b2912; ECK2907; ygfA	
+loiP	b2936; yggG; JW2903; ECK2931	
+sslE	JW5925; ECK2968; b4466; acfD; yghJ	
+hldE	rfaE; JW3024; waaE; yqiF; ECK3042; b3052; gmhC	
+tsaD	JW3036; ECK3054; gcp; ygjD; b3064	
+lpoA	JW3116; b3147; yraM; ECK3135	
+ibaG	ECK3179; yrbA; b3190; JW3157	
+zapE	yhcM; b3232; ECK3221; JW3201	
+acuI	ECK3241; yhdH; JW3222; b3253	
+tusB	JW3305; b3343; ECK3330; yheL	
+tusD	JW3307; ECK3332; yheN; b3345	
+panM	panZ; JW3424; ECK3443; yhhK; b3459; livL	
+tusA	JW3435; b3470; sirA; ECK3454; yhhP	
+rsmJ	ECK3482; yhiQ; JW5672; b3497	
+rlmJ	b3499; ECK3484; JW3466; yhiR	
+sgbH	JW3553; yiaQ; b3581; ECK3570	
+sgbU	b3582; JW5650; ECK3571; yiaR	
+sgbE	b3583; ECK3572; JW3555; yiaS	
+hldD	rfaD; ECK3609; waaD; b3619; gmhD; JW3594; nbsB; htrM	
+waaF	JW3595; ECK3610; rfaF; b3620	
+adeQ	yicO; b3664; pbuA; JW5636; ECK3655	
+adeD	JW3640; ade; adeC; yicP; ECK3656; b3665; adu	
+chrR	ECK3706; JW3691; yieF; b3713	
+adeP	ECK3707; purP; yieG; JW3692; b3714	
+wecA	rfe; b3784; ECK3776; JW3758	
+wecB	ECK3778; nfrC; JW5600; b3786; rffE; yifF	
+wecC	rffD; ECK3779; JW5599; b3787; rff	
+wecD	JW5597; yifH; rff; rffC; ECK3782; b3790	
+wecE	ECK3783; rff; yifI; JW3765; rffA; b3791	
+wecF	rffT; JW5596; rff; yifM; ECK3785; b4481	
+wecG	JW3770; b3794; rffM; ECK3787; rff	
+ubiJ	ECK3828; b3834; yigP; JW3811	
+srkA	JW3831; rdoA; orfA; yihE; ECK3851; b3859	
+frwA	ptsA; b3947; JW5555; ECK3939; yijH	
+eptC	ECK3946; b3955; cptA; JW3927; yijP	
+ghxP	ECK4057; JW4025; yjcD; b4064	
+crfC	yjdA; b4109; ECK4102; JW4070	
+pmrR	b4703; ECK4515	
+dtpC	JW4091; yjdL; b4130; ECK4124	
+epmB	ECK4140; b4146; JW4106; yjeK	
+epmA	b4155; ECK4151; poxA; genX; JW4116; yjeA	
+queG	ECK4162; b4166; JW4124; yjeS	
+nnr	ECK4163; yjeF; JW4125; b4167	
+tsaE	b4168; ECK4164; yjeE; JW4126	
+tamA	yftM; JW4179; ECK4216; ytfM; b4220	
+tamB	JW4180; ytfN; ytfO; ECK4217; b4221	
+ridA	b4243; yjgF; ECK4238; JW5755	
+bdcA	ECK4243; b4249; yjgI; JW4207	
+ahr	ECK4262; b4269; JW5761; yjgB	
+hypT	qseD; JW4290; ECK4318; yjiE; b4327	
+lgoT	b4356; JW4319; yjiZ; yjjL; ECK4346	
+lgoR	JW5792; yjjM; ECK4347; b4357	
+lgoD	b4358; yjjN; JW5793; ECK4348	
+ettA	ECK4383; yjjK; b4391; JW4354	
+yadV	ECK0139; b0140; ecpD; JW0136	
+rayT	yafM; ECK0229; JW0218; tnpAREP; b0228	
+ecpR	ECK0293; JW5031; b0294; matA; ykgK	
+rclC	b0301; JW5038; ECK0301	
+rclB	ECK0302; JW5039; ykgI; ykgB; b0303	
+rclA	JW5040; b0304; ECK0303; ykgC	
+rclR	ECK0304; ykgD; b0305; JW0298	
+fetA	ECK0484; JW0479; ybbL; b0490	
+sfmZ	fimZ; b0535; ybcA; ECK0528; JW5073	
+rrrD	b0555; JW0544; ECK0546; arrD; ybcS	
+flc	fluC; ECK0617; JW0619; crcB; b0624; ybeI	
+mntS	rybA; b4705; ECK4517	
+bluR	ycgE; ECK1149; JW1149; b1162	
+bluF	JW1150; ECK1150; b1163; ycgF	
+pgrR	JW1321; ycjZ; ECK1325; b1328	
+dgcZ	ydeH; b1535; JW1528; ydeG; ECK1528	
+rrrQ	ECK1548; ydfQ; b1554; arrQ; JW1546	
+ldtA	JW1968; erfK; b1990; ECK1985; srfK; yeeG; yzzT	
+wzzB	rol; ECK2022; cld; wzz; b2027; JW5836	
+wbbH	ECK2029; JW2020; rfc; yefF; b2035	
+wzxB	JW2022; ECK2031; b2037; wzx; rfbX	
+mepS	JW2163; yeiV; b2175; spr; ECK2169	
+rnlB	ECK2627; b2631; JW5418; yfjO	
+prlF	JW3098; b3129; ECK3117; sohA	
+acrS	b3264; envR; ECK3251; JW3232; yhdK	
+tsaC	yrdC; rimN; ECK3269; JW3243; b3282	
+arfA	ECK3278; JW3253; b4550; yhdL	
+tusC	ECK3331; yheM; JW3306; b3344	
+waaH	yibD; b3615; ECK3605; JW3590	
+waaC	ECK3611; JW3596; rfaC; yibC; b3621	
+waaL	b3622; JW3597; rfaL; ECK3612	
+waaZ	ECK3614; JW3599; b3624; rfaZ	
+waaY	ECK3615; JW3600; b3625; rfaY	
+waaR	waaJ; b3626; JW3601; rfaJ; rfaN; ECK3616	
+waaO	ECK3617; waaI; JW3602; rfaM; b3627; rfaI	
+waaB	JW3603; ECK3618; syn*; lps; b3628; phx*; rfaB	
+waaS	ECK3619; rfaS; JW3604; b3629	
+waaP	JW3605; rfaP; b3630; ECK3620	
+waaG	b3631; rfaG; JW3606; ECK3621	
+waaQ	JW3607; ECK3622; rfaQ; b3632	
+alsR	JW4050; yjcY; ECK4082; rpiR; b4089	
+ghoS	ECK4121; b4128; yjdK; JW4089	
+ghoT	b4559; ECK4122; JW5732; yjdO	
+bdcR	ECK4244; yjgJ; b4251; JW4208	

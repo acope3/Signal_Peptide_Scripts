@@ -1,0 +1,103 @@
+
+Aligning sequencing reads from file:	Galaxy1-[CV104_pHDB3_5.txt].fastq.txt
+Total reads:            	28229039
+Successfully aligned reads:	27250747	97%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	16%
+	Aligning (antisense) to protein-coding genes:	17%
+	Aligning (sense) to ribosomal RNAs:	31%
+	Aligning (antisense) to ribosomal RNAs:	31%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	1%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	4%
+
+Aligning sequencing reads from file:	Galaxy6-[CV104_pHDB3_10.txt].fastq.txt
+Total reads:            	32061082
+Successfully aligned reads:	30944513	97%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	13%
+	Aligning (antisense) to protein-coding genes:	13%
+	Aligning (sense) to ribosomal RNAs:	35%
+	Aligning (antisense) to ribosomal RNAs:	36%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	1%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	3%
+
+Aligning sequencing reads from file:	Galaxy4-[CV104_pHDB3_20.txt].fastq.txt
+Total reads:            	29524140
+Successfully aligned reads:	28180041	95%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	13%
+	Aligning (antisense) to protein-coding genes:	14%
+	Aligning (sense) to ribosomal RNAs:	34%
+	Aligning (antisense) to ribosomal RNAs:	34%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	1%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	3%
+
+Aligning sequencing reads from file:	Galaxy2-[CV104_pLCV1_5.txt].fastq.txt
+Total reads:            	29003056
+Successfully aligned reads:	27841628	96%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	6%
+	Aligning (antisense) to protein-coding genes:	7%
+	Aligning (sense) to ribosomal RNAs:	42%
+	Aligning (antisense) to ribosomal RNAs:	43%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	0%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	2%
+
+Aligning sequencing reads from file:	Galaxy3-[CV104_pLCV1_10.txt].fastq.txt
+Total reads:            	25193874
+Successfully aligned reads:	24018580	95%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	14%
+	Aligning (antisense) to protein-coding genes:	14%
+	Aligning (sense) to ribosomal RNAs:	33%
+	Aligning (antisense) to ribosomal RNAs:	34%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	1%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	3%
+
+Aligning sequencing reads from file:	Galaxy5-[CV104_pLCV1_20.txt].fastq.txt
+Total reads:            	25891893
+Successfully aligned reads:	25000311	97%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	12%
+	Aligning (antisense) to protein-coding genes:	13%
+	Aligning (sense) to ribosomal RNAs:	35%
+	Aligning (antisense) to ribosomal RNAs:	36%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	1%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	3%
+
+Analyzing transcripts...
+
+************************************************************
+Escherichia coli str. K-12 substr. MG1655 chromosome
+************************************************************
+
+Computing transcript boundaries...
+	Number of 5'UTRs:			374
+	Number of 3'UTRs:			261
+	Number of predicted RNAs:			2
+
+Computing differential gene expression...
+	Number of differentially expressed protein coding genes:	320
+
+Computing likely operons...
+	Number of gene-pairs predicted to be part of the same operon:	1657
+	Number of predicted multi-gene operons:		822
+
+
+Summary of results written to file:	Rockhopper_Results/summary.txt
+Expression of transcripts written to file:	Rockhopper_Results/NC_000913_transcripts.txt
+Operons written to file:		Rockhopper_Results/NC_000913_operons.txt
+
+FINISHED.

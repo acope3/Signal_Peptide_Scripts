@@ -1,0 +1,651 @@
+
+Aligning sequencing reads from file:	pHDB3_1.fastq
+Total reads:            	25586870
+Successfully aligned reads:	24555926	96%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	80%
+	Aligning (antisense) to protein-coding genes:	2%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	5%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	11%
+
+Aligning sequencing reads from file:	pHDB3_2.fastq
+Total reads:            	30553305
+Successfully aligned reads:	29596778	97%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	79%
+	Aligning (antisense) to protein-coding genes:	3%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	5%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	11%
+
+Aligning sequencing reads from file:	pHDB3_3.fastq
+Total reads:            	33020633
+Successfully aligned reads:	31640865	96%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	77%
+	Aligning (antisense) to protein-coding genes:	4%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	5%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	12%
+
+Aligning sequencing reads from file:	pLCV1_1.fastq
+Total reads:            	32384060
+Successfully aligned reads:	31303914	97%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	80%
+	Aligning (antisense) to protein-coding genes:	3%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	5%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	11%
+
+Aligning sequencing reads from file:	pLCV1_2.fastq
+Total reads:            	31372341
+Successfully aligned reads:	30134682	96%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	78%
+	Aligning (antisense) to protein-coding genes:	4%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	5%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	11%
+
+Aligning sequencing reads from file:	pLCV1_3.fastq
+Total reads:            	32411642
+Successfully aligned reads:	31290206	97%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	78%
+	Aligning (antisense) to protein-coding genes:	3%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	5%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	12%
+
+Aligning sequencing reads from file:	MG1655-aMG_1.fastq
+Total reads:            	29826236
+Successfully aligned reads:	27835474	93%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	71%
+	Aligning (antisense) to protein-coding genes:	7%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	2%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	6%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	13%
+
+Aligning sequencing reads from file:	MG1655-aMG_2.fastq
+Total reads:            	27462841
+Successfully aligned reads:	23279269	85%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	76%
+	Aligning (antisense) to protein-coding genes:	6%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	4%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	13%
+
+Aligning sequencing reads from file:	MG1655-aMG_3.fastq
+Total reads:            	26203021
+Successfully aligned reads:	22932996	88%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	68%
+	Aligning (antisense) to protein-coding genes:	11%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	6%
+	Aligning (antisense) to miscellaneous RNAs:	2%
+	Aligning to unannotated regions:        	13%
+
+Aligning sequencing reads from file:	MG1655+aMG_1.fastq
+Total reads:            	25797475
+Successfully aligned reads:	22468213	87%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	67%
+	Aligning (antisense) to protein-coding genes:	15%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	4%
+	Aligning (antisense) to miscellaneous RNAs:	2%
+	Aligning to unannotated regions:        	12%
+
+Aligning sequencing reads from file:	MG1655+aMG_2.fastq
+Total reads:            	24247745
+Successfully aligned reads:	22071186	91%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	79%
+	Aligning (antisense) to protein-coding genes:	4%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	5%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	11%
+
+Aligning sequencing reads from file:	MG1655+aMG_3.fastq
+Total reads:            	27733019
+Successfully aligned reads:	23563948	85%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	77%
+	Aligning (antisense) to protein-coding genes:	2%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	6%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	12%
+
+Aligning sequencing reads from file:	SgrR_1.fastq
+Total reads:            	26234673
+Successfully aligned reads:	20182322	77%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	77%
+	Aligning (antisense) to protein-coding genes:	5%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	5%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	11%
+
+Aligning sequencing reads from file:	SgrR_2.fastq
+Total reads:            	26153371
+Successfully aligned reads:	21489458	82%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	76%
+	Aligning (antisense) to protein-coding genes:	3%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	7%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	12%
+
+Aligning sequencing reads from file:	SgrR_3.fastq
+Total reads:            	25147546
+Successfully aligned reads:	21633685	86%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	76%
+	Aligning (antisense) to protein-coding genes:	4%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	6%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	12%
+
+Aligning sequencing reads from file:	sgrS_T_1.fastq
+Total reads:            	29377151
+Successfully aligned reads:	27936287	95%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	79%
+	Aligning (antisense) to protein-coding genes:	4%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	7%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	9%
+
+Aligning sequencing reads from file:	sgrS_T_2.fastq
+Total reads:            	19790415
+Successfully aligned reads:	14488455	73%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	73%
+	Aligning (antisense) to protein-coding genes:	6%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	12%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	7%
+
+Aligning sequencing reads from file:	sgrS_T_3.fastq
+Total reads:            	19954754
+Successfully aligned reads:	14036365	70%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	69%
+	Aligning (antisense) to protein-coding genes:	7%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	13%
+	Aligning (antisense) to miscellaneous RNAs:	2%
+	Aligning to unannotated regions:        	8%
+
+Aligning sequencing reads from file:	sgrS_un_1.fastq
+Total reads:            	22583957
+Successfully aligned reads:	21360825	95%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	81%
+	Aligning (antisense) to protein-coding genes:	5%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	5%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	9%
+
+Aligning sequencing reads from file:	sgrS_un_2.fastq
+Total reads:            	21268787
+Successfully aligned reads:	16354510	77%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	73%
+	Aligning (antisense) to protein-coding genes:	5%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	10%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	11%
+
+Aligning sequencing reads from file:	sgrS_un_3.fastq
+Total reads:            	20282446
+Successfully aligned reads:	13295124	66%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	67%
+	Aligning (antisense) to protein-coding genes:	13%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	6%
+	Aligning (antisense) to miscellaneous RNAs:	2%
+	Aligning to unannotated regions:        	10%
+
+Aligning sequencing reads from file:	WT_1.fastq
+Total reads:            	27890821
+Successfully aligned reads:	23730170	85%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	69%
+	Aligning (antisense) to protein-coding genes:	7%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	8%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	13%
+
+Aligning sequencing reads from file:	WT_2.fastq
+Total reads:            	26812861
+Successfully aligned reads:	22631549	84%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	76%
+	Aligning (antisense) to protein-coding genes:	3%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	7%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	13%
+
+Aligning sequencing reads from file:	WT_3.fastq
+Total reads:            	22266341
+Successfully aligned reads:	19773649	89%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	76%
+	Aligning (antisense) to protein-coding genes:	2%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	7%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	12%
+
+Aligning sequencing reads from file:	wt_T_1.fastq
+Total reads:            	30378681
+Successfully aligned reads:	29276146	96%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	77%
+	Aligning (antisense) to protein-coding genes:	4%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	7%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	11%
+
+Aligning sequencing reads from file:	wt_T_2.fastq
+Total reads:            	18789280
+Successfully aligned reads:	12340419	66%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	72%
+	Aligning (antisense) to protein-coding genes:	5%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	11%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	9%
+
+Aligning sequencing reads from file:	wt_T_3.fastq
+Total reads:            	17033107
+Successfully aligned reads:	9492494	56%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	72%
+	Aligning (antisense) to protein-coding genes:	6%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	12%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	9%
+
+Aligning sequencing reads from file:	wt_un_1.fastq
+Total reads:            	25798907
+Successfully aligned reads:	24822578	96%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	76%
+	Aligning (antisense) to protein-coding genes:	6%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	5%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	11%
+
+Aligning sequencing reads from file:	wt_un_2.fastq
+Total reads:            	78069457
+Successfully aligned reads:	56382348	72%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	75%
+	Aligning (antisense) to protein-coding genes:	4%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	9%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	11%
+
+Aligning sequencing reads from file:	wt_un_3.fastq
+Total reads:            	22238206
+Successfully aligned reads:	15054151	68%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	72%
+	Aligning (antisense) to protein-coding genes:	6%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	8%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	11%
+
+Aligning sequencing reads from file:	CV108_minus_aMG_1.fastq
+Total reads:            	19811768
+Successfully aligned reads:	6503604	33%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	55%
+	Aligning (antisense) to protein-coding genes:	13%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	1%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	18%
+	Aligning (antisense) to miscellaneous RNAs:	3%
+	Aligning to unannotated regions:        	10%
+
+Aligning sequencing reads from file:	CV108_minus_aMG_2.fastq
+Total reads:            	45870516
+Successfully aligned reads:	24969252	54%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	40%
+	Aligning (antisense) to protein-coding genes:	26%
+	Aligning (sense) to ribosomal RNAs:	1%
+	Aligning (antisense) to ribosomal RNAs:	3%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	13%
+	Aligning (antisense) to miscellaneous RNAs:	3%
+	Aligning to unannotated regions:        	13%
+
+Aligning sequencing reads from file:	CV108_minus_aMG_3.fastq
+Total reads:            	38190235
+Successfully aligned reads:	10699157	28%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	56%
+	Aligning (antisense) to protein-coding genes:	18%
+	Aligning (sense) to ribosomal RNAs:	1%
+	Aligning (antisense) to ribosomal RNAs:	2%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	9%
+	Aligning (antisense) to miscellaneous RNAs:	2%
+	Aligning to unannotated regions:        	11%
+
+Aligning sequencing reads from file:	CV108_plus_aMG_1.fastq
+Total reads:            	32993388
+Successfully aligned reads:	14172786	43%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	56%
+	Aligning (antisense) to protein-coding genes:	15%
+	Aligning (sense) to ribosomal RNAs:	1%
+	Aligning (antisense) to ribosomal RNAs:	3%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	12%
+	Aligning (antisense) to miscellaneous RNAs:	4%
+	Aligning to unannotated regions:        	9%
+
+Aligning sequencing reads from file:	CV108_plus_aMG_2.fastq
+Total reads:            	32614016
+Successfully aligned reads:	14775110	45%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	57%
+	Aligning (antisense) to protein-coding genes:	7%
+	Aligning (sense) to ribosomal RNAs:	1%
+	Aligning (antisense) to ribosomal RNAs:	5%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	19%
+	Aligning (antisense) to miscellaneous RNAs:	2%
+	Aligning to unannotated regions:        	9%
+
+Aligning sequencing reads from file:	CV108_plus_aMG_3.fastq
+Total reads:            	27856240
+Successfully aligned reads:	14736937	53%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	59%
+	Aligning (antisense) to protein-coding genes:	13%
+	Aligning (sense) to ribosomal RNAs:	1%
+	Aligning (antisense) to ribosomal RNAs:	3%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	11%
+	Aligning (antisense) to miscellaneous RNAs:	3%
+	Aligning to unannotated regions:        	10%
+
+Aligning sequencing reads from file:	MG1655_minus_aMG_1.fastq
+Total reads:            	41232420
+Successfully aligned reads:	25901761	63%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	58%
+	Aligning (antisense) to protein-coding genes:	19%
+	Aligning (sense) to ribosomal RNAs:	1%
+	Aligning (antisense) to ribosomal RNAs:	2%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	7%
+	Aligning (antisense) to miscellaneous RNAs:	2%
+	Aligning to unannotated regions:        	11%
+
+Aligning sequencing reads from file:	MG1655_minus_aMG_2.fastq
+Total reads:            	28703454
+Successfully aligned reads:	17468695	61%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	65%
+	Aligning (antisense) to protein-coding genes:	12%
+	Aligning (sense) to ribosomal RNAs:	1%
+	Aligning (antisense) to ribosomal RNAs:	2%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	9%
+	Aligning (antisense) to miscellaneous RNAs:	2%
+	Aligning to unannotated regions:        	9%
+
+Aligning sequencing reads from file:	MG1655_minus_aMG_3.fastq
+Total reads:            	32533308
+Successfully aligned reads:	23000517	71%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	48%
+	Aligning (antisense) to protein-coding genes:	31%
+	Aligning (sense) to ribosomal RNAs:	1%
+	Aligning (antisense) to ribosomal RNAs:	1%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	5%
+	Aligning (antisense) to miscellaneous RNAs:	2%
+	Aligning to unannotated regions:        	12%
+
+Aligning sequencing reads from file:	MG1655_plus_aMG_1.fastq
+Total reads:            	41303284
+Successfully aligned reads:	33219766	80%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	56%
+	Aligning (antisense) to protein-coding genes:	17%
+	Aligning (sense) to ribosomal RNAs:	1%
+	Aligning (antisense) to ribosomal RNAs:	4%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	9%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	12%
+
+Aligning sequencing reads from file:	MG1655_plus_aMG_2.fastq
+Total reads:            	43455761
+Successfully aligned reads:	28457823	65%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	61%
+	Aligning (antisense) to protein-coding genes:	12%
+	Aligning (sense) to ribosomal RNAs:	1%
+	Aligning (antisense) to ribosomal RNAs:	2%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	11%
+	Aligning (antisense) to miscellaneous RNAs:	2%
+	Aligning to unannotated regions:        	10%
+
+Aligning sequencing reads from file:	MG1655_plus_aMG_3.fastq
+Total reads:            	26116589
+Successfully aligned reads:	18314200	70%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	61%
+	Aligning (antisense) to protein-coding genes:	11%
+	Aligning (sense) to ribosomal RNAs:	1%
+	Aligning (antisense) to ribosomal RNAs:	4%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	10%
+	Aligning (antisense) to miscellaneous RNAs:	2%
+	Aligning to unannotated regions:        	10%
+
+Aligning sequencing reads from file:	WT_minus_2DG_1.fastq
+Total reads:            	34085732
+Successfully aligned reads:	30049601	88%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	49%
+	Aligning (antisense) to protein-coding genes:	25%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	1%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	9%
+	Aligning (antisense) to miscellaneous RNAs:	3%
+	Aligning to unannotated regions:        	13%
+
+Aligning sequencing reads from file:	WT_minus_2DG_2.fastq
+Total reads:            	32646666
+Successfully aligned reads:	27282968	84%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	53%
+	Aligning (antisense) to protein-coding genes:	20%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	11%
+	Aligning (antisense) to miscellaneous RNAs:	3%
+	Aligning to unannotated regions:        	12%
+
+Aligning sequencing reads from file:	WT_minus_2DG_3.fastq
+Total reads:            	32765674
+Successfully aligned reads:	28959621	88%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	46%
+	Aligning (antisense) to protein-coding genes:	27%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	1%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	9%
+	Aligning (antisense) to miscellaneous RNAs:	4%
+	Aligning to unannotated regions:        	13%
+
+Aligning sequencing reads from file:	WT_plus_2DG_1.fastq
+Total reads:            	43739917
+Successfully aligned reads:	39132150	89%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	46%
+	Aligning (antisense) to protein-coding genes:	31%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	1%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	6%
+	Aligning (antisense) to miscellaneous RNAs:	2%
+	Aligning to unannotated regions:        	14%
+
+Aligning sequencing reads from file:	WT_plus_2DG_2.fastq
+Total reads:            	31866797
+Successfully aligned reads:	29377233	92%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	54%
+	Aligning (antisense) to protein-coding genes:	21%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	9%
+	Aligning (antisense) to miscellaneous RNAs:	1%
+	Aligning to unannotated regions:        	13%
+
+Aligning sequencing reads from file:	WT_plus_2DG_3.fastq
+Total reads:            	35517710
+Successfully aligned reads:	31376427	88%	(Escherichia coli str. K-12 substr. MG1655 chromosome)
+	Aligning (sense) to protein-coding genes:	52%
+	Aligning (antisense) to protein-coding genes:	21%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	1%
+	Aligning (sense) to transfer RNAs:	1%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	10%
+	Aligning (antisense) to miscellaneous RNAs:	2%
+	Aligning to unannotated regions:        	13%
+
+Analyzing transcripts...
+
+************************************************************
+Escherichia coli str. K-12 substr. MG1655 chromosome
+************************************************************
+
+Computing transcript boundaries...
+	Number of 5'UTRs:			2330
+	Number of 3'UTRs:			1786
+	Number of predicted RNAs:			413
+	Number of predicted RNAs (not antisense):		107
+	Number of predicted RNAs (antisense):		306
+
+Computing differential gene expression...
+	Number of differentially expressed protein coding genes:	1827
+
+Computing likely operons...
+	Number of gene-pairs predicted to be part of the same operon:	1749
+	Number of predicted multi-gene operons:		838
+
+
+Summary of results written to file:	Rockhopper_Results/summary.txt
+Expression of transcripts written to file:	Rockhopper_Results/NC_000913_transcripts.txt
+Operons written to file:		Rockhopper_Results/NC_000913_operons.txt
+
+FINISHED.

@@ -1,0 +1,606 @@
+>lcl|NC_000913.3_cds_NP_414554.1_12 [gene=yaaI] [locus_tag=b0013] [db_xref=ASAP:ABE-0000043,UniProtKB/Swiss-Prot:P28696] [protein=UPF0412 family protein] [protein_id=NP_414554.1] [location=complement(11382..11786)]
+ATGAAATCCGTTTTTACGATTTCCGCCAGCCTGGCGATTAGCCTGATGCTGTGCTGCACGGCGCAGGCA
+>lcl|NC_000913.3_cds_NP_414595.1_52 [gene=surA] [locus_tag=b0053] [db_xref=ASAP:ABE-0000180,UniProtKB/Swiss-Prot:P0ABZ6] [protein=peptidyl-prolyl cis-trans isomerase (PPIase)] [protein_id=NP_414595.1] [location=complement(53416..54702)]
+ATGAAGAACTGGAAAACGCTGCTTCTCGGTATCGCCATGATCGCGAATACCAGTTTCGCT
+>lcl|NC_000913.3_cds_NP_414596.1_53 [gene=lptD] [locus_tag=b0054] [db_xref=ASAP:ABE-0000183,UniProtKB/Swiss-Prot:P31554] [protein=LPS assembly OM complex LptDE, beta-barrel component] [protein_id=NP_414596.1] [location=complement(54755..57109)]
+ATGAAAAAACGTATCCCCACTCTCCTGGCCACCATGATTGCCACCGCCCTTTATAGTCAACAGGGACTGGCA
+>lcl|NC_000913.3_cds_NP_414610.1_66 [gene=thiB] [locus_tag=b0068] [db_xref=ASAP:ABE-0000249,UniProtKB/Swiss-Prot:P31550] [protein=thiamine/thiamine pyrophosphate/thiamine monophosphate ABC transporter periplasmic binding protein] [protein_id=NP_414610.1] [location=complement(74497..75480)]
+GTGTTAAAAAAATGTCTGCCCCTGCTGTTGCTGTGCACAGCGCCCGTTTTCGCT
+>lcl|NC_000913.3_cds_NP_414639.2_95 [gene=secM] [locus_tag=b0097] [db_xref=ASAP:ABE-0000340,UniProtKB/Swiss-Prot:P62395] [protein=regulator of secA translation] [protein_id=NP_414639.2] [location=107705..108217]
+GTGAGTGGAATACTGACGCGCTGGCGACAGTTTGGTAAACGCTACTTCTGGCCGCATCTCTTATTAGGGATGGTTGCGGCGAGTTTAGGTTTGCCTGCGCTCAGCAACGCC
+>lcl|NC_000913.3_cds_NP_414664.4_118 [gene=yacC] [locus_tag=b0122] [db_xref=ASAP:ABE-0000423,UniProtKB/Swiss-Prot:P0AA95] [protein=PulS_OutS family protein] [protein_id=NP_414664.4] [location=complement(136570..136917)]
+ATGAAGACGTTTTTCAGAACAGTGTTATTCGGCAGCCTGATGGCCGTCTGCGCAAACAGTTACGCG
+>lcl|NC_000913.3_cds_NP_414665.1_119 [gene=cueO] [locus_tag=b0123] [db_xref=ASAP:ABE-0000430,UniProtKB/Swiss-Prot:P36649] [protein=multicopper oxidase (laccase)] [protein_id=NP_414665.1] [location=137083..138633]
+ATGCAACGTCGTGATTTCTTAAAATATTCCGTCGCGCTGGGTGTGGCTTCGGCTTTGCCGCTGTGGAGCCGCGCAGTATTTGCG
+>lcl|NC_000913.3_cds_NP_414672.1_126 [gene=yadE] [locus_tag=b0130] [db_xref=ASAP:ABE-0000457,UniProtKB/Swiss-Prot:P31666] [protein=putative polysaccharide deacetylase lipoprotein] [protein_id=NP_414672.1] [location=145081..146310]
+ATGTACAAACAAGCTGTTATTCTCCTGCTGATGCTGTTTACCGCAAGTGTCAGTGCC
+>lcl|NC_000913.3_cds_NP_414683.1_137 [gene=yadN] [locus_tag=b0141] [db_xref=ASAP:ABE-0000487,UniProtKB/Swiss-Prot:P37050] [protein=putative fimbrial-like adhesin protein] [protein_id=NP_414683.1] [location=complement(156299..156883)]
+ATGTCTAAAAAATTAGGTTTTGCCCTGTCTGGTCTTATGCTGGCGATGGTTGCAGGTACTGCTTCTGCT
+>lcl|NC_000913.3_cds_NP_414692.1_146 [gene=fhuA] [locus_tag=b0150] [db_xref=ASAP:ABE-0000520,UniProtKB/Swiss-Prot:P06971] [protein=ferrichrome outer membrane transporter] [protein_id=NP_414692.1] [location=167484..169727]
+ATGGCGCGTTCCAAAACTGCTCAGCCAAAACACTCACTGCGTAAAATCGCAGTTGTAGTAGCCACAGCGGTTAGCGGCATGTCTGTTTATGCACAGGCA
+>lcl|NC_000913.3_cds_NP_414694.1_148 [gene=fhuD] [locus_tag=b0152] [db_xref=ASAP:ABE-0000524,UniProtKB/Swiss-Prot:P07822] [protein=iron(3+)-hydroxamate import ABC transporter periplasmic binding protein] [protein_id=NP_414694.1] [location=170575..171465]
+ATGAGCGGCTTACCTCTTATTTCGCGCCGTCGACTGTTAACGGCGATGGCGCTTTCTCCGTTGTTATGGCAGATGAATACCGCCCACGCG
+>lcl|NC_000913.3_cds_NP_414700.1_154 [gene=btuF] [locus_tag=b0158] [db_xref=ASAP:ABE-0000542,UniProtKB/Swiss-Prot:P37028] [protein=vitamin B12 ABC transporter periplasmic binding protein] [protein_id=NP_414700.1] [location=complement(177662..178462)]
+ATGGCTAAGTCACTGTTCAGGGCGCTGGTCGCCCTGTCTTTTCTTGCGCCACTGTGGCTCAACGCC
+>lcl|NC_000913.3_cds_NP_414703.1_157 [gene=degP] [locus_tag=b0161] [db_xref=ASAP:ABE-0000551,UniProtKB/Swiss-Prot:P0C0V0] [protein=serine endoprotease (protease Do), membrane-associated] [protein_id=NP_414703.1] [location=180884..182308]
+ATGAAAAAAACCACATTAGCACTGAGTGCACTGGCTCTGAGTTTAGGTTTGGCGTTATCTCCGCTCTCTGCAACGGCG
+>lcl|NC_000913.3_cds_NP_414719.1_172 [gene=bamA] [locus_tag=b0177] [db_xref=ASAP:ABE-0000605,UniProtKB/Swiss-Prot:P0A940] [protein=BamABCDE complex OM biogenesis outer membrane pore-forming assembly factor] [protein_id=NP_414719.1] [location=197928..200360]
+ATGGCGATGAAAAAGTTGCTCATAGCGTCGCTGCTGTTTAGCAGCGCCACCGTATACGGT
+>lcl|NC_000913.3_cds_NP_414720.1_173 [gene=skp] [locus_tag=b0178] [db_xref=ASAP:ABE-0000608,UniProtKB/Swiss-Prot:P0AEU7] [protein=periplasmic chaperone] [protein_id=NP_414720.1] [location=200482..200967]
+GTGAAAAAGTGGTTATTAGCTGCAGGTCTCGGTTTAGCACTGGCAACTTCTGCTCAGGCG
+>lcl|NC_000913.3_cds_NP_414734.1_188 [gene=nlpE] [locus_tag=b0192] [db_xref=ASAP:ABE-0000652,UniProtKB/Swiss-Prot:P40710] [protein=lipoprotein involved with copper homeostasis and adhesion] [protein_id=NP_414734.1] [location=215269..215979]
+ATGGTGAAAAAAGCGATAGTGACAGCGATGGCTGTAATCAGCCTCTTTACTCTGATG
+>lcl|NC_000913.3_cds_NP_414738.1_192 [gene=rcsF] [locus_tag=b0196] [db_xref=ASAP:ABE-0000663,UniProtKB/Swiss-Prot:P69411] [protein=putative outer membrane protein] [protein_id=NP_414738.1] [location=complement(219591..219995)]
+ATGCGTGCTTTACCGATCTGTTTAGTAGCACTCATGCTAAGCGGCTGTTCCATGTTAAGCAGATCC
+>lcl|NC_000913.3_cds_NP_414755.1_211 [gene=ivy] [locus_tag=b0220] [db_xref=ASAP:ABE-0000740,UniProtKB/Swiss-Prot:P0AD59] [protein=inhibitor of c-type lysozyme, periplasmic] [protein_id=NP_414755.1] [location=240343..240816]
+ATGGGCAGGATAAGCTCGGGAGGAATGATGTTTAAGGCAATAACGACAGTCGCCGCTCTGGTCATCGCCACCAGTGCAATGGCG
+>lcl|NC_000913.3_cds_NP_414759.1_215 [gene=yafK] [locus_tag=b0224] [db_xref=ASAP:ABE-0000757,UniProtKB/Swiss-Prot:P0AA99] [protein=L,D-transpeptidase-related protein] [protein_id=NP_414759.1] [location=complement(245065..245805)]
+ATGCGTAAAATCGCATTAATTCTTGCGATGTTGTTGATCCCGTGCGTTTCATTTGCC
+>lcl|NC_000913.3_cds_NP_414762.1_218 [gene=yafL] [locus_tag=b0227] [db_xref=ASAP:ABE-0000775,UniProtKB/Swiss-Prot:Q47151] [protein=putative lipoprotein and C40 family peptidase] [protein_id=NP_414762.1] [location=246712..247461]
+ATGTCCTTGCCGTCGATTCCATCCTTTGTATTGTCGGGATTACTGTTGATTTGTTTGCCGTTTTCTTCATTTGCC
+>lcl|NC_000913.3_cds_NP_414776.1_232 [gene=phoE] [locus_tag=b0241] [db_xref=ASAP:ABE-0000823,UniProtKB/Swiss-Prot:P02932] [protein=outer membrane phosphoporin protein E] [protein_id=NP_414776.1] [location=complement(259045..260100)]
+ATGAAAAAGAGCACTCTGGCATTAGTGGTGATGGGCATTGTGGCATCTGCATCTGTACAGGCT
+>lcl|NC_000913.3_cds_NP_414784.1_242 [gene=ykfB] [locus_tag=b0250] [db_xref=ASAP:ABE-0000851,UniProtKB/Swiss-Prot:P77162] [protein=CP4-6 prophage; uncharacterized protein] [protein_id=NP_414784.1] [location=complement(265620..266087)]
+ATGACAATACTTTCACTAAGTCGGTTTATGCTGGCGGGTGTACTGCTCGCGAGCTTTAATGCCTCTGCT
+>lcl|NC_000913.3_cds_NP_414785.4_243 [gene=yafY] [locus_tag=b0251] [db_xref=ASAP:ABE-0000853,UniProtKB/Swiss-Prot:P77365] [protein=lipoprotein, inner membrane; degP regulator; CP4-6 prophage] [protein_id=NP_414785.4] [location=complement(266110..266553)]
+ATGAAACGTAAAACACTGCCTCTGCTGGCGCTGGTTGCCACCACTCTGTTTCTCATCGCA
+>lcl|NC_000913.3_cds_NP_414823.2_286 [gene=ecpE] [locus_tag=b0289] [db_xref=ASAP:ABE-0001000,UniProtKB/Swiss-Prot:P77263] [protein=ECP production pilus chaperone] [protein_id=NP_414823.2] [location=complement(304495..305205)]
+ATGTTCAGGCGACGTGGCGTAACATTAACTAAGGCCCTGCTGACAGCGGTCTGTATGCTGGCGGCACCTTTGACACAGGCG
+>lcl|NC_000913.3_cds_NP_414825.1_288 [gene=ecpC] [locus_tag=b0291] [db_xref=ASAP:ABE-0001005,UniProtKB/Swiss-Prot:P77802] [protein=ECP production outer membrane protein] [protein_id=NP_414825.1] [location=complement(306807..309332)]
+ATGCCTTTACGACGGTTCTCCCCAGGACTGAAAGCCCAGTTTGCCTTCGGCATGGTCTTTTTGTTCGTTCAGCCCGATGCCAGCGCT
+>lcl|NC_000913.3_cds_NP_414826.1_289 [gene=ecpB] [locus_tag=b0292] [db_xref=ASAP:ABE-0001007,UniProtKB/Swiss-Prot:P77188] [protein=ECP production pilus chaperone] [protein_id=NP_414826.1] [location=complement(309358..310026)]
+ATGAAAAAGCACCTTCTGCCTCTCGCTCTGCTGTTTTCCGGAATATCTCCGGCCCAGGCG
+>lcl|NC_000913.3_cds_NP_414827.1_290 [gene=ecpA] [locus_tag=b0293] [db_xref=ASAP:ABE-0001009,UniProtKB/Swiss-Prot:P0AAA3] [protein=ECP pilin] [protein_id=NP_414827.1] [location=complement(310084..310671)]
+ATGAAAAAAAAGGTTCTGGCAATAGCTCTGGTAACGGTGTTTACCGGCATGGGTGTGGCGCAGGCT
+>lcl|NC_000913.3_cds_NP_414858.1_322 [gene=yahJ] [locus_tag=b0324] [db_xref=ASAP:ABE-0001109,UniProtKB/Swiss-Prot:P77554] [protein=putative metallo-dependent hydrolase domain deaminase] [protein_id=NP_414858.1] [location=341125..342507]
+ATGAAAGAAAGCAATAGCCGCCGTGAATTTCTGAGCCAGAGCGGTAAGATGGTCACCGCCGCCGCGCTGTTTGGTACCTCTGTGCCGCTCGCCCATGCG
+>lcl|NC_000913.3_cds_NP_414892.1_355 [gene=yaiO] [locus_tag=b0358] [db_xref=ASAP:ABE-0001230,UniProtKB/Swiss-Prot:Q47534] [protein=outer membrane protein] [protein_id=NP_414892.1] [location=complement(380069..380842)]
+ATGATAAAACGGACGTTATTAGCGGCGGCCATTTTTAGCGCATTGCCCGCTTATGCC
+>lcl|NC_000913.3_cds_NP_414899.2_361 [gene=tauA] [locus_tag=b0365] [db_xref=ASAP:ABE-0001256,UniProtKB/Swiss-Prot:Q47537] [protein=taurine ABC transporter periplasmic binding protein] [protein_id=NP_414899.2] [location=385232..386194]
+ATGGCAATTTCATCGCGTAACACACTTCTTGCCGCACTGGCATTCATCGCTTTTCAGGCACAGGCG
+>lcl|NC_000913.3_cds_NP_414910.1_370 [gene=ampH] [locus_tag=b0376] [db_xref=ASAP:ABE-0001292,UniProtKB/Swiss-Prot:P0AD70] [protein=D-alanyl-D-alanine-carboxypeptidase/endopeptidase; penicillin-binding protein; weak beta-lactamase] [protein_id=NP_414910.1] [location=complement(395130..396287)]
+TTGAAACGTAGTCTGCTTTTTTCTGCCGTGCTGTGTGCGGCGTCATTGACCTCCGTCCATGCG
+>lcl|NC_000913.3_cds_NP_414912.1_372 [gene=yaiW] [locus_tag=b0378] [db_xref=ASAP:ABE-0001299,UniProtKB/Swiss-Prot:P77562] [protein=microcin Bac7 uptake protein; outer membrane surface-exposed lipoprotein] [protein_id=NP_414912.1] [location=397872..398966]
+ATGTCGCGCGTCAATCCTCTATCTTCGCTGTCATTGTTGGCGGTTCTGGTTTTAGCGGGGTGTAGTAGTCAGGCT
+>lcl|NC_000913.3_cds_NP_414917.2_377 [gene=phoA] [locus_tag=b0383] [db_xref=ASAP:ABE-0001328,UniProtKB/Swiss-Prot:P00634] [protein=bacterial alkaline phosphatase] [protein_id=NP_414917.2] [location=401747..403162]
+GTGAAACAAAGCACTATTGCACTGGCACTCTTACCGTTACTGTTTACCCCTGTGACAAAAGCC
+>lcl|NC_000913.3_cds_NP_414945.1_404 [gene=tsx] [locus_tag=b0411] [db_xref=ASAP:ABE-0001425,UniProtKB/Swiss-Prot:P0A927] [protein=nucleoside channel, receptor of phage T6 and colicin K] [protein_id=NP_414945.1] [location=complement(431129..432013)]
+ATGAAAAAAACATTACTGGCAGCCGGTGCGGTACTGGCGCTCTCTTCGTCTTTTACTGTCAACGCA
+>lcl|NC_000913.3_cds_NP_414968.4_427 [gene=yajG] [locus_tag=b0434] [db_xref=ASAP:ABE-0001504,UniProtKB/Swiss-Prot:P0ADA5] [protein=putative lipoprotein] [protein_id=NP_414968.4] [location=complement(453589..454167)]
+ATGTTCAAAAAAATCCTCTTCCCGTTAGTTGCTCTGTTTATGCTTGCAGGATGCGCA
+>lcl|NC_000913.3_cds_NP_414976.1_435 [gene=ybaV] [locus_tag=b0442] [db_xref=ASAP:ABE-0001534,UniProtKB/Swiss-Prot:P0AAR8] [protein=putative competence-suppressing periplasmic helix-hairpin-helix DNA-binding protein] [protein_id=NP_414976.1] [location=463937..464308]
+ATGAAACACGGAATTAAAGCACTGCTCATTACCCTGTCCCTGGCCTGTGCCGGAATGTCTCATAGCGCGCTGGCG
+>lcl|NC_000913.3_cds_NP_414985.1_444 [gene=amtB] [locus_tag=b0451] [db_xref=ASAP:ABE-0001564,UniProtKB/Swiss-Prot:P69681] [protein=ammonium transporter] [protein_id=NP_414985.1] [location=472966..474252]
+ATGAAGATAGCGACGATAAAAACTGGGCTTGCTTCACTGGCGATGCTTCCGGGACTGGTAATGGCT
+>lcl|NC_000913.3_cds_NP_414987.3_446 [gene=ybaY] [locus_tag=b0453] [db_xref=ASAP:ABE-0001574,UniProtKB/Swiss-Prot:P77717] [protein=outer membrane lipoprotein] [protein_id=NP_414987.3] [location=475379..475951]
+ATGAAACTCGTGCACATGGCCAGTGGTTTAGCGGTTGCGATTGCGTTGGCG
+>lcl|NC_000913.3_cds_NP_414996.1_455 [gene=acrA] [locus_tag=b0463] [db_xref=ASAP:ABE-0001603,UniProtKB/Swiss-Prot:P0AE06] [protein=multidrug efflux system] [protein_id=NP_414996.1] [location=complement(484426..485619)]
+ATGAACAAAAACAGAGGGTTTACGCCTCTGGCGGTCGTTCTGATGCTCTCAGGCAGCTTAGCC
+>lcl|NC_000913.3_cds_NP_414998.1_457 [gene=mscK] [locus_tag=b0465] [db_xref=ASAP:ABE-0001613,UniProtKB/Swiss-Prot:P77338] [protein=mechanosensitive channel protein, intermediate conductance, K+ regulated] [protein_id=NP_414998.1] [location=486536..489898]
+ATGACTATGTTCCAGTATTACAAACGATCACGGCATTTTGTTTTTTCAGCATTTATTGCTTTTGTTTTTGTCTTGTTATGCCAGAACACGGCGTTTGCG
+>lcl|NC_000913.3_cds_NP_415013.1_472 [gene=ushA] [locus_tag=b0480] [db_xref=ASAP:ABE-0001668,UniProtKB/Swiss-Prot:P07024] [protein=bifunctional UDP-sugar hydrolase/5'-nucleotidase] [protein_id=NP_415013.1] [location=504914..506566]
+ATGAAATTATTGCAGCGGGGCGTGGCGTTAGCGCTGTTAACCACATTTACACTGGCGAGTGAAACTGCTCTGGCG
+>lcl|NC_000913.3_cds_NP_415099.1_563 [gene=ybcH] [locus_tag=b0567] [db_xref=ASAP:ABE-0001937,UniProtKB/Swiss-Prot:P37325] [protein=PRK09936 family protein] [protein_id=NP_415099.1] [location=complement(587091..587981)]
+ATGCGTAAGTTCATTTTCGTATTGCTGACACTGCTTTTGGTCAGCCCTTTTTCCTTTGCG
+>lcl|NC_000913.3_cds_NP_415100.1_564 [gene=nfrA] [locus_tag=b0568] [db_xref=ASAP:ABE-0001939,UniProtKB/Swiss-Prot:P31600] [protein=bacteriophage N4 receptor, outer membrane subunit] [protein_id=NP_415100.1] [location=complement(587982..590954)]
+ATGAAGGAGAATAACCTTAATCGCGTCATCGGATGGTCTGGTTTACTGCTGACGTCTTTATTGAGTACCAGCGCACTCGCA
+>lcl|NC_000913.3_cds_NP_415104.1_568 [gene=cusC] [locus_tag=b0572] [db_xref=ASAP:ABE-0001958,UniProtKB/Swiss-Prot:P77211] [protein=copper/silver efflux system, outer membrane component] [protein_id=NP_415104.1] [location=595600..596973]
+ATGTCTCCTTGTAAACTTCTGCCATTTTGTGTGGCCCTTGCGCTAACCGGTTGTTCACTGGCA
+>lcl|NC_000913.3_cds_NP_415105.1_569 [gene=cusF] [locus_tag=b0573] [db_xref=ASAP:ABE-0001967,UniProtKB/Swiss-Prot:P77214] [protein=periplasmic copper- and silver-binding protein] [protein_id=NP_415105.1] [location=597131..597463]
+ATGAAAAAAGCACTGCAAGTCGCAATGTTCAGTCTGTTTACCGTTATTGGCTTTAATGCCCAGGCT
+>lcl|NC_000913.3_cds_NP_415116.1_581 [gene=fepA] [locus_tag=b0584] [db_xref=ASAP:ABE-0002014,UniProtKB/Swiss-Prot:P05825] [protein=ferrienterobactin outer membrane transporter] [protein_id=NP_415116.1] [location=complement(610254..612494)]
+ATGAACAAGAAGATTCATTCCCTGGCCTTGTTGGTCAATCTGGGGATTTATGGGGTAGCGCAGGCA
+>lcl|NC_000913.3_cds_NP_415124.1_590 [gene=fepB] [locus_tag=b0592] [db_xref=ASAP:ABE-0002038,UniProtKB/Swiss-Prot:P0AEL6] [protein=ferrienterobactin ABC transporter periplasmic binding protein] [protein_id=NP_415124.1] [location=complement(623554..624510)]
+GTGAGACTCGCCCCGCTCTACCGCAACGCCCTTCTATTAACAGGACTTTTGCTTTCAGGAATAGCCGCAGTTCAGGCC
+>lcl|NC_000913.3_cds_NP_415144.1_609 [gene=rna] [locus_tag=b0611] [db_xref=ASAP:ABE-0002107,UniProtKB/Swiss-Prot:P21338] [protein=ribonuclease I] [protein_id=NP_415144.1] [location=complement(644197..645003)]
+ATGAAAGCATTCTGGCGTAACGCCGCGTTGCTCGCGGTTTCTCTGCTTCCCTTCTCTTCTGCCAACGCC
+>lcl|NC_000913.3_cds_NP_415165.1_629 [gene=dacA] [locus_tag=b0632] [db_xref=ASAP:ABE-0002168,UniProtKB/Swiss-Prot:P0AEB2] [protein=D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5)] [protein_id=NP_415165.1] [location=complement(662752..663963)]
+ATGAATACCATTTTTTCCGCTCGTATCATGAAGCGCCTGGCGCTCACCACGGCTCTTTGCACAGCCTTTATCTCTGCTGCACATGCC
+>lcl|NC_000913.3_cds_NP_415188.1_652 [gene=gltI] [locus_tag=b0655] [db_xref=ASAP:ABE-0002241,UniProtKB/Swiss-Prot:P37902] [protein=glutamate/aspartate periplasmic binding protein] [protein_id=NP_415188.1] [location=complement(686839..687747)]
+ATGCAATTACGTAAACCTGCCACAGCAATCCTCGCCCTGGCGCTTTCCGCAGGACTGGCACAGGCA
+>lcl|NC_000913.3_cds_NP_415207.1_667 [gene=chiP] [locus_tag=b0681] [db_xref=ASAP:ABE-0002323,UniProtKB/Swiss-Prot:P75733] [protein=chitoporin, uptake of chitosugars] [protein_id=NP_415207.1] [location=708334..709740]
+ATGCGTACGTTTAGTGGCAAACGTAGTACGCTGGCGCTGGCTATCGCCGGTGTTACAGCAATGTCGGGCTTTATGGCA
+>lcl|NC_000913.3_cds_NP_415208.1_668 [gene=chiQ] [locus_tag=b0682] [db_xref=ASAP:ABE-0002325,UniProtKB/Swiss-Prot:P75734] [protein=chitosugar-induced verified lipoprotein] [protein_id=NP_415208.1] [location=709790..710116]
+ATGAAAAAACTGATTCTCATCGCCATAATGGCATCGGGGCTGGTAGCTTGTGCG
+>lcl|NC_000913.3_cds_NP_415246.2_707 [gene=ybgQ] [locus_tag=b0718] [db_xref=ASAP:ABE-0002446,UniProtKB/Swiss-Prot:P75750] [protein=putative outer membrane protein] [protein_id=NP_415246.2] [location=complement(749722..752169)]
+GTGAATATTTATCGACTCTCTTTTGTATCCTGCCTGGTCATGGCGATGCCTTGCGCAATGGCG
+>lcl|NC_000913.3_cds_NP_415269.1_730 [gene=pal] [locus_tag=b0741] [db_xref=ASAP:ABE-0002521,UniProtKB/Swiss-Prot:P0A912] [protein=peptidoglycan-associated outer membrane lipoprotein] [protein_id=NP_415269.1] [location=779067..779588]
+ATGCAACTGAACAAAGTGCTGAAAGGGCTGATGATTGCTCTGCCTGTTATGGCAATTGCG
+>lcl|NC_000913.3_cds_NP_415274.1_735 [gene=ybgS] [locus_tag=b0753] [db_xref=ASAP:ABE-0002553,UniProtKB/Swiss-Prot:P0AAV6] [protein=putative periplasmic protein] [protein_id=NP_415274.1] [location=complement(784937..785317)]
+ATGAAAATGACAAAACTGGCCACATTATTTCTGACTGCCACTCTAAGCCTTGCCAGCGGTGCCGCACTGGCT
+>lcl|NC_000913.3_cds_NP_415284.1_745 [gene=modA] [locus_tag=b0763] [db_xref=ASAP:ABE-0002601,UniProtKB/Swiss-Prot:P37329] [protein=molybdate ABC transporter periplasmic binding protein; chlorate resistance protein] [protein_id=NP_415284.1] [location=795089..795862]
+ATGGCTCGTAAATGGTTGAACTTGTTTGCCGGGGCGGCACTCTCTTTCGCTGTTGCTGGCAATGCACTGGCA
+>lcl|NC_000913.3_cds_NP_415293.1_754 [gene=ybhC] [locus_tag=b0772] [db_xref=ASAP:ABE-0002629,UniProtKB/Swiss-Prot:P46130] [protein=acyl-CoA thioesterase, lipoprotein] [protein_id=NP_415293.1] [location=complement(805998..807281)]
+GTGAACACATTTTCAGTTTCCCGTCTGGCGCTGGCATTGGCTTTTGGCGTGACGCTGACCGCCTGTAGC
+>lcl|NC_000913.3_cds_NP_415323.1_784 [gene=ybiJ] [locus_tag=b0802] [db_xref=ASAP:ABE-0002741,UniProtKB/Swiss-Prot:P0AAX3] [protein=DUF1471 family putative periplasmic protein] [protein_id=NP_415323.1] [location=complement(837665..837925)]
+ATGAAAACTATCAATACTGTTGTTGCTGCTATGGCTCTTTCAACTCTGTCATTTGGCGTGTTCGCG
+>lcl|NC_000913.3_cds_NP_415326.1_787 [gene=fiu] [locus_tag=b0805] [db_xref=ASAP:ABE-0002749,UniProtKB/Swiss-Prot:P75780] [protein=catecholate siderophore receptor] [protein_id=NP_415326.1] [location=complement(839249..841531)]
+ATGGAAAACAATCGCAATTTCCCTGCCAGACAATTTCATTCGCTCACGTTCTTTGCCGGTCTTTGTATTGGCATCACGCCTGTGGCTCAGGCACTCGCC
+>lcl|NC_000913.3_cds_NP_415327.2_788 [gene=mcbA] [locus_tag=b0806] [db_xref=ASAP:ABE-0002753,UniProtKB/Swiss-Prot:P0AAX6] [protein=colanic acid mucoidy stimulation protein] [protein_id=NP_415327.2] [location=complement(841796..842056)]
+ATGAAAAAGTGCCTCACACTACTGATTGCCACCGTCCTGAGCGGAATCTCTCTCACGGCTTATGCC
+>lcl|NC_000913.3_cds_NP_415329.4_790 [gene=ybiO] [locus_tag=b0808] [db_xref=ASAP:ABE-0002760,UniProtKB/Swiss-Prot:P75783] [protein=mechanosensitive channel protein, intermediate conductance] [protein_id=NP_415329.4] [location=complement(843255..845480)]
+ATGCGGTGGATCCTGTTCATCCTCTTCTGCCTGCTGGGCGCACCTGCCCACGCG
+>lcl|NC_000913.3_cds_NP_415332.1_793 [gene=glnH] [locus_tag=b0811] [db_xref=ASAP:ABE-0002771,UniProtKB/Swiss-Prot:P0AEQ3] [protein=glutamine transporter subunit] [protein_id=NP_415332.1] [location=complement(847258..848004)]
+ATGAAGTCTGTATTAAAAGTTTCACTGGCTGCACTGACCCTGGCTTTTGCGGTTTCTTCTCATGCC
+>lcl|NC_000913.3_cds_NP_415335.1_796 [gene=ompX] [locus_tag=b0814] [db_xref=ASAP:ABE-0002784,UniProtKB/Swiss-Prot:P0A917] [protein=outer membrane protein X] [protein_id=NP_415335.1] [location=850450..850965]
+ATGAAAAAAATTGCATGTCTTTCAGCACTGGCCGCAGTTCTGGCTTTCACCGCAGGTACTTCCGTAGCT
+>lcl|NC_000913.3_cds_NP_415340.1_801 [gene=ldtB] [locus_tag=b0819] [db_xref=ASAP:ABE-0002797,UniProtKB/Swiss-Prot:P0AAX8] [protein=L,D-transpeptidase linking Lpp to murein] [protein_id=NP_415340.1] [location=complement(854824..855744)]
+ATGAATATGAAATTGAAAACATTATTCGCAGCGGCCTTCGCTGTTGTCGGCTTTTGCAGTACCGCCTCTGCG
+>lcl|NC_000913.3_cds_NP_415351.1_812 [gene=gsiB] [locus_tag=b0830] [db_xref=ASAP:ABE-0002832,UniProtKB/Swiss-Prot:P75797] [protein=glutathione ABC transporter periplasmic binding protein] [protein_id=NP_415351.1] [location=869411..870949]
+ATGGCAAGAGCTGTACACCGTAGTGGGTTAGTGGCGCTGGGCATTGCGACAGCGTTGATGGCATCTTGTGCATTCGCT
+>lcl|NC_000913.3_cds_NP_415358.1_819 [gene=yliI] [locus_tag=b0837] [db_xref=ASAP:ABE-0002852,UniProtKB/Swiss-Prot:P75804] [protein=soluble aldose sugar dehydrogenase] [protein_id=NP_415358.1] [location=878742..879857]
+ATGCATCGACAATCCTTTTTCCTTGTGCCCCTTATTTGTCTTTCTTCCGCTCTCTGGGCG
+>lcl|NC_000913.3_cds_NP_415360.1_821 [gene=dacC] [locus_tag=b0839] [db_xref=ASAP:ABE-0002860,UniProtKB/Swiss-Prot:P08506] [protein=D-alanyl-D-alanine carboxypeptidase; penicillin-binding protein 6a] [protein_id=NP_415360.1] [location=880727..881929]
+ATGACGCAATACTCCTCTCTCCTTCGTGGTCTTGCAGCGGGTTCTGCATTTTTATTCCTTTTTGCCCCAACGGCATTCGCG
+>lcl|NC_000913.3_cds_NP_415364.1_825 [gene=ybjH] [locus_tag=b0843] [db_xref=ASAP:ABE-0002873,UniProtKB/Swiss-Prot:P0AAY4] [protein=uncharacterized protein] [protein_id=NP_415364.1] [location=complement(884946..885230)]
+ATGATTATGAAAAATTGTCTACTGTTGGGCGCGCTTTTAATGGGCTTTACTGGTGTGGCGATGGCG
+>lcl|NC_000913.3_cds_NP_415375.1_836 [gene=potF] [locus_tag=b0854] [db_xref=ASAP:ABE-0002913,UniProtKB/Swiss-Prot:P31133] [protein=putrescine ABC transporter periplasmic binding protein] [protein_id=NP_415375.1] [location=893784..894896]
+ATGACCGCCTTAAATAAAAAATGGCTATCGGGTCTGGTTGCGGGTGCTCTGATGGCCGTCTCTGTCGGCACGCTCGCG
+>lcl|NC_000913.3_cds_NP_415381.1_842 [gene=artJ] [locus_tag=b0860] [db_xref=ASAP:ABE-0002927,UniProtKB/Swiss-Prot:P30860] [protein=arginine ABC transporter periplasmic binding protein] [protein_id=NP_415381.1] [location=complement(899844..900575)]
+ATGAAAAAGTTAGTTCTTGCCGCTTTACTTGCTTCCTTTACTTTCGGTGCTTCTGCC
+>lcl|NC_000913.3_cds_NP_415384.1_845 [gene=artI] [locus_tag=b0863] [db_xref=ASAP:ABE-0002937,UniProtKB/Swiss-Prot:P30859] [protein=arginine transporter subunit] [protein_id=NP_415384.1] [location=complement(902257..902988)]
+ATGAAAAAAGTTCTGATTGCCGCGTTAATTGCAGGTTTTAGTCTTTCCGCCACAGCT
+>lcl|NC_000913.3_cds_NP_415386.1_847 [gene=ybjP] [locus_tag=b0865] [db_xref=ASAP:ABE-0002941,UniProtKB/Swiss-Prot:P75818] [protein=lipoprotein] [protein_id=NP_415386.1] [location=complement(903952..904467)]
+ATGCGCTACAGCAAATTGACAATGCTTATCCCCTGCGCACTGCTCCTCAGTGCCTGCACCACAGTCACTCCAGCTTATAAA
+>lcl|NC_000913.3_cds_NP_415388.1_849 [gene=amiD] [locus_tag=b0867] [db_xref=ASAP:ABE-0002947,UniProtKB/Swiss-Prot:P75820] [protein=1,6-anhydro-N-acetylmuramyl-L-alanine amidase, Zn-dependent; OM lipoprotein] [protein_id=NP_415388.1] [location=904913..905743]
+ATGAGAAGATTCTTCTGGCTGGTCGCTGCCGCTCTGTTATTGGCAGGGTGTGCAGGCGAA
+>lcl|NC_000913.3_cds_NP_415411.2_872 [gene=lolA] [locus_tag=b0891] [db_xref=ASAP:ABE-0003031,UniProtKB/Swiss-Prot:P61316] [protein=lipoprotein chaperone] [protein_id=NP_415411.2] [location=937372..937983]
+ATGAAAAAAATTGCCATCACCTGTGCATTACTCTCAAGCTTAGTAGCAAGCAGCGTTTGGGCT
+>lcl|NC_000913.3_cds_NP_415445.1_906 [gene=ldtD] [locus_tag=b0925] [db_xref=ASAP:ABE-0003142,UniProtKB/Swiss-Prot:P22525] [protein=murein L,D-transpeptidase] [protein_id=NP_415445.1] [location=981047..982894]
+ATGTTGCTTAATATGATGTGTGGTCGTCAGCTGTCGGCAATCAGTTTGTGCCTGGCCGTAACATTCGCTCCACTGTTCAATGCGCAGGCC
+>lcl|NC_000913.3_cds_NP_415449.1_910 [gene=ompF] [locus_tag=b0929] [db_xref=ASAP:ABE-0003153,UniProtKB/Swiss-Prot:P02931] [protein=outer membrane porin 1a (Ia;b;F)] [protein_id=NP_415449.1] [location=complement(985894..986982)]
+ATGATGAAGCGCAATATTCTGGCAGTGATCGTCCCTGCTCTGTTAGTAGCAGGTACTGCAAACGCT
+>lcl|NC_000913.3_cds_NP_415456.4_917 [gene=ssuA] [locus_tag=b0936] [db_xref=ASAP:ABE-0003180,UniProtKB/Swiss-Prot:P75853] [protein=aliphatic sulfonate ABC transporter periplasmic binding protein] [protein_id=NP_415456.4] [location=complement(995985..996944)]
+ATGCGTAACATCATTAAACTGGCGCTGGCGGGATTGCTTAGCGTCTCTACTTTTGCGGTTGCT
+>lcl|NC_000913.3_cds_NP_415477.1_938 [gene=ompA] [locus_tag=b0957] [db_xref=ASAP:ABE-0003240,UniProtKB/Swiss-Prot:P0A910] [protein=outer membrane protein A (3a;II*;G;d)] [protein_id=NP_415477.1] [location=complement(1019013..1020053)]
+ATGAAAAAGACAGCTATCGCGATTGCAGTGGCACTGGCTGGTTTCGCTACCGTAGCGCAGGCC
+>lcl|NC_000913.3_cds_NP_415484.1_945 [gene=yccT] [locus_tag=b0964] [db_xref=ASAP:ABE-0003262,UniProtKB/Swiss-Prot:P0A8X4] [protein=UPF0319 family protein] [protein_id=NP_415484.1] [location=complement(1027111..1027773)]
+ATGAAAACCGGCATCGTGACCACCTTGATTGCATTATGTTTGCCGGTATCCGTTTTTGCC
+>lcl|NC_000913.3_cds_NP_415500.1_961 [gene=appA] [locus_tag=b0980] [db_xref=ASAP:ABE-0003305,UniProtKB/Swiss-Prot:P07102] [protein=phosphoanhydride phosphorylase] [protein_id=NP_415500.1] [location=1040617..1041915]
+ATGAAAGCGATCTTAATCCCATTTTTATCTCTTCTGATTCCGTTAACCCCGCAATCTGCATTCGCT
+>lcl|NC_000913.3_cds_NP_415503.1_964 [gene=gfcE] [locus_tag=b0983] [db_xref=ASAP:ABE-0003317,UniProtKB/Swiss-Prot:P0A932] [protein=putative O-antigen capsule outer membrane auxillary protein export channel] [protein_id=NP_415503.1] [location=complement(1044664..1045803)]
+ATGAAAAAGAACATTTTTAAGTTTTCGGTACTGACATTGGCTGTTCTGTCTTTGACAGCATGTACC
+>lcl|NC_000913.3_cds_NP_415504.1_965 [gene=gfcD] [locus_tag=b0984] [db_xref=ASAP:ABE-0003319,UniProtKB/Swiss-Prot:P75882] [protein=putative O-antigen capsule production periplasmic protein] [protein_id=NP_415504.1] [location=complement(1045849..1047945)]
+ATGAAGAAGAATTCTTATCTTTTAAGCTGCCTGGCCATTGCCGTCTCCAGTGCCTGTCATGCT
+>lcl|NC_000913.3_cds_NP_415505.1_966 [gene=gfcC] [locus_tag=b0985] [db_xref=ASAP:ABE-0003321,UniProtKB/Swiss-Prot:P75883] [protein=putative O-antigen capsule production periplasmic protein] [protein_id=NP_415505.1] [location=complement(1047945..1048691)]
+ATGAATAAATTACAGTCGTATTTCATTGCCAGCGTACTTTACGTAATGACACCCCATGCCTTTGCG
+>lcl|NC_000913.3_cds_NP_415507.2_968 [gene=gfcA] [locus_tag=b0987] [db_xref=ASAP:ABE-0003325,UniProtKB/Swiss-Prot:P75885] [protein=O-antigen capsule production threonine-rich inner membrane protein] [protein_id=NP_415507.2] [location=complement(1049439..1049744)]
+ATGAAACACAAGCTTTCTGCAATCCTTATGGCCTTCATGTTGACGACGCCAGCTGCGTTTGCT
+>lcl|NC_000913.3_cds_NP_415514.1_977 [gene=torT] [locus_tag=b0994] [db_xref=ASAP:ABE-0003360,UniProtKB/Swiss-Prot:P38683] [protein=periplasmic sensory protein associated with the TorRS two-component regulatory system] [protein_id=NP_415514.1] [location=1056261..1057289]
+ATGCGCGTACTGCTATTTTTACTTCTTTCCCTTTTCATGTTGCCGGCATTTTCG
+>lcl|NC_000913.3_cds_NP_415522.1_985 [gene=agp] [locus_tag=b1002] [db_xref=ASAP:ABE-0003388,UniProtKB/Swiss-Prot:P19926] [protein=glucose-1-phosphatase/inositol phosphatase] [protein_id=NP_415522.1] [location=1065585..1066826]
+ATGAACAAAACGCTAATCGCCGCAGCTGTGGCAGGGATAGTTTTACTCGCTTCAAACGCTCAGGCA
+>lcl|NC_000913.3_cds_NP_415537.1_1000 [gene=efeO] [locus_tag=b1018] [db_xref=ASAP:ABE-0003448,UniProtKB/Swiss-Prot:P0AB24] [protein=inactive ferrous ion transporter EfeUOB] [protein_id=NP_415537.1] [location=1082243..1083370]
+ATGACCATTAACTTCCGCCGTAACGCATTGCAGTTGAGCGTGGCTGCGCTGTTTTCTTCTGCTTTTATGGCTAACGCC
+>lcl|NC_000913.3_cds_NP_415538.1_1001 [gene=efeB] [locus_tag=b1019] [db_xref=ASAP:ABE-0003451,UniProtKB/Swiss-Prot:P31545] [protein=deferrrochelatase, periplasmic] [protein_id=NP_415538.1] [location=1083376..1084647]
+ATGCAGTATAAAGATGAAAACGGCGTGAATGAACCGTCACGCCGACGTTTACTGAAAGTGATAGGTGCACTGGCGCTGGCGGGAAGTTGTCCGGTCGCTCATGCA
+>lcl|NC_000913.3_cds_NP_415555.1_1016 [gene=csgG] [locus_tag=b1037] [db_xref=ASAP:ABE-0003516,UniProtKB/Swiss-Prot:P0AEA2] [protein=curli production assembly/transport outer membrane lipoprotein] [protein_id=NP_415555.1] [location=complement(1100851..1101684)]
+ATGCAGCGCTTATTTCTTTTGGTTGCCGTCATGTTACTGAGCGGATGCTTAACCGCC
+>lcl|NC_000913.3_cds_NP_415560.1_1021 [gene=csgA] [locus_tag=b1042] [db_xref=ASAP:ABE-0003537,UniProtKB/Swiss-Prot:P28307] [protein=curlin subunit, amyloid curli fibers, cryptic] [protein_id=NP_415560.1] [location=1104447..1104902]
+ATGAAACTTTTAAAAGTAGCAGCAATTGCAGCAATCGTATTCTCCGGTAGCGCTCTGGCA
+>lcl|NC_000913.3_cds_NP_415566.1_1027 [gene=opgG] [locus_tag=b1048] [db_xref=ASAP:ABE-0003558,UniProtKB/Swiss-Prot:P33136] [protein=OPG biosynthetic periplasmic beta-1,6 branching glycosyltransferase] [protein_id=NP_415566.1] [location=1109335..1110870]
+ATGATGAAAATGCGTTGGTTGAGTGCTGCAGTAATGTTAACCCTGTATACATCTTCAAGCTGGGCT
+>lcl|NC_000913.3_cds_NP_415574.1_1034 [gene=yceI] [locus_tag=b1056] [db_xref=ASAP:ABE-0003583,UniProtKB/Swiss-Prot:P0A8X2] [protein=periplasmic high pH-inducible lipid-binding protein] [protein_id=NP_415574.1] [location=complement(1117901..1118476)]
+ATGAAAAAAAGCCTGCTTGGTTTAACCTTCGCGTCCCTGATGTTCTCTGCCGGTTCAGCGGTTGCC
+>lcl|NC_000913.3_cds_NP_415590.1_1050 [gene=flgA] [locus_tag=b1072] [db_xref=ASAP:ABE-0003637,UniProtKB/Swiss-Prot:P75933] [protein=assembly protein for flagellar basal-body periplasmic P ring] [protein_id=NP_415590.1] [location=complement(1130204..1130863)]
+ATGCTGATAATAAAACGTAGCGTGGCGATCATCGCGATACTGTTCAGTCCGTTAAGTACGGCG
+>lcl|NC_000913.3_cds_NP_415597.1_1057 [gene=flgH] [locus_tag=b1079] [db_xref=ASAP:ABE-0003654,UniProtKB/Swiss-Prot:P0A6S0] [protein=flagellar protein of basal-body outer-membrane L ring] [protein_id=NP_415597.1] [location=1135564..1136262]
+ATGCAAAAAAACGCTGCGCATACTTATGCCATTTCCAGCTTGTTGGTGCTTTCACTAACCGGCTGCGCC
+>lcl|NC_000913.3_cds_NP_415598.3_1058 [gene=flgI] [locus_tag=b1080] [db_xref=ASAP:ABE-0003656,UniProtKB/Swiss-Prot:P0A6S3] [protein=putative flagellar basal body protein] [protein_id=NP_415598.3] [location=1136274..1137371]
+GTGATTAAATTTCTCTCTGCATTAATTCTTCTACTGGTCACGACGGCGGCTCAGGCT
+>lcl|NC_000913.3_cds_NP_415620.1_1080 [gene=fhuE] [locus_tag=b1102] [db_xref=ASAP:ABE-0003724,UniProtKB/Swiss-Prot:P16869] [protein=ferric-rhodotorulic acid outer membrane transporter] [protein_id=NP_415620.1] [location=complement(1159362..1161551)]
+ATGCTTTCAACACAATTTAACAGGGATAATCAATATCAAGCCATCACCAAACCGTCACTACTTGCCGGTTGCATAGCACTGGCACTATTACCTTCTGCCGCTTTTGCT
+>lcl|NC_000913.3_cds_NP_415623.1_1083 [gene=lpoB] [locus_tag=b1105] [db_xref=ASAP:ABE-0003733,UniProtKB/Swiss-Prot:P0AB38] [protein=OM lipoprotein stimulator of MrcB transpeptidase] [protein_id=NP_415623.1] [location=1162638..1163279]
+ATGACAAAAATGAGTCGCTACGCCTTGATTACCGCGCTGGCGATGTTTCTCGCCGGGTGTGTGGGGCAA
+>lcl|NC_000913.3_cds_NP_415631.1_1091 [gene=ldtC] [locus_tag=b1113] [db_xref=ASAP:ABE-0003760,UniProtKB/Swiss-Prot:P75954] [protein=L,D-transpeptidase linking Lpp to murein] [protein_id=NP_415631.1] [location=complement(1169412..1170374)]
+GTGATGATCAAAACGCGTTTTTCTCGCTGGCTAACGTTTTTTACGTTCGCCGCTGCCGTGGCGCTGGCGCTACCGGCAAAAGCC
+>lcl|NC_000913.3_cds_NP_415641.1_1101 [gene=potD] [locus_tag=b1123] [db_xref=ASAP:ABE-0003789,UniProtKB/Swiss-Prot:P0AFK9] [protein=spermidine/putrescine ABC transporter periplasmic binding protein] [protein_id=NP_415641.1] [location=complement(1181783..1182829)]
+ATGAAAAAATGGTCACGCCACCTGCTCGCGGCGGGTGCTCTGGCACTGGGCATGAGCGCCGCTCACGCC
+>lcl|NC_000913.3_cds_NP_415689.2_1150 [gene=ymgD] [locus_tag=b1171] [db_xref=ASAP:ABE-0003926,UniProtKB/Swiss-Prot:P0AB46] [protein=uncharacterized protein] [protein_id=NP_415689.2] [location=complement(1222305..1222634)]
+ATGAAAAAATTTGCTTTACTGGCGGGCCTGTTTGTTTTCGCACCAATGACCTGGGCG
+>lcl|NC_000913.3_cds_NP_415690.5_1151 [gene=ymgG] [locus_tag=b1172] [db_xref=ASAP:ABE-0003928,UniProtKB/Swiss-Prot:Q7DFV3] [protein=UPF0757 family protein] [protein_id=NP_415690.5] [location=complement(1222644..1222988)]
+TTGAAGAAAAAAATACTTGCCTTCGGGCTTATCTCAGCATTGTTCTGCTCCACGCCAGCGATGGCG
+>lcl|NC_000913.3_cds_NP_415711.2_1174 [gene=emtA] [locus_tag=b1193] [db_xref=ASAP:ABE-0004006,UniProtKB/Swiss-Prot:P0C960] [protein=lytic murein endotransglycosylase E] [protein_id=NP_415711.2] [location=1243180..1243791]
+GTGAAATTGAGATGGTTTGCCTTTTTGATTGTGTTATTAGCGGGTTGTTCATCAAAGCATGAC
+>lcl|NC_000913.3_cds_NP_415715.1_1178 [gene=treA] [locus_tag=b1197] [db_xref=ASAP:ABE-0004021,UniProtKB/Swiss-Prot:P13482] [protein=periplasmic trehalase] [protein_id=NP_415715.1] [location=complement(1245679..1247376)]
+ATGAAATCCCCCGCACCTTCTCGCCCGCAAAAAATGGCGTTAATTCCAGCCTGTATCTTTTTGTGTTTCGCTGCGCTATCGGTGCAGGCA
+>lcl|NC_000913.3_cds_NP_415727.1_1190 [gene=lolB] [locus_tag=b1209] [db_xref=ASAP:ABE-0004059,UniProtKB/Swiss-Prot:P61320] [protein=lipoprotein localization factor] [protein_id=NP_415727.1] [location=complement(1262877..1263500)]
+ATGCCCCTGCCCGATTTTCGTCTTATCCGCCTGCTACCGCTGGCTGCTCTTGTGCTCACTGCCTGTTCC
+>lcl|NC_000913.3_cds_NP_415738.2_1204 [gene=ychO] [locus_tag=b1220] [db_xref=ASAP:ABE-0004095,UniProtKB/Swiss-Prot:P39165] [protein=putative invasin] [protein_id=NP_415738.2] [location=1273784..1275178]
+TTGAGCCGTTTCGTTCCTCGCATTATCCCGTTTTATTTACTCTTGCTTGTAGCAGGCGGTACAGCTAACGCA
+>lcl|NC_000913.3_cds_NP_415759.1_1223 [gene=oppA] [locus_tag=b1243] [db_xref=ASAP:ABE-0004172,UniProtKB/Swiss-Prot:P23843] [protein=oligopeptide ABC transporter periplasmic binding protein] [protein_id=NP_415759.1] [location=1301182..1302813]
+ATGACCAACATCACCAAGAGAAGTTTAGTAGCAGCTGGCGTTCTGGCTGCGCTAATGGCAGGGAATGTCGCGCTGGCA
+>lcl|NC_000913.3_cds_NP_415772.1_1237 [gene=ompW] [locus_tag=b1256] [db_xref=ASAP:ABE-0004210,UniProtKB/Swiss-Prot:P0A915] [protein=outer membrane protein W] [protein_id=NP_415772.1] [location=1314020..1314658]
+ATGAAAAAGTTAACAGTGGCGGCTTTGGCAGTAACAACTCTTCTCTCTGGCAGTGCCTTTGCG
+>lcl|NC_000913.3_cds_NP_415799.1_1266 [gene=osmB] [locus_tag=b1283] [db_xref=ASAP:ABE-0004309,UniProtKB/Swiss-Prot:P0ADA7] [protein=osmotically and stress inducible lipoprotein] [protein_id=NP_415799.1] [location=complement(1343110..1343328)]
+ATGTTTGTAACGAGCAAAAAAATGACCGCGGCTGTTCTGGCAATTACTTTGGCAATGTCTCTGAGTGCC
+>lcl|NC_000913.3_cds_NP_415810.1_1279 [gene=sapA] [locus_tag=b1294] [db_xref=ASAP:ABE-0004354,UniProtKB/Swiss-Prot:Q47622] [protein=antimicrobial peptide transport ABC transporter periplasmic binding protein] [protein_id=NP_415810.1] [location=complement(1355467..1357110)]
+ATGCGCCAGGTATTATCGTCTCTTTTGGTGATTGCTGGACTTGTGAGTGGTCAGGCAATCGCC
+>lcl|NC_000913.3_cds_NP_415824.1_1293 [gene=pspE] [locus_tag=b1308] [db_xref=ASAP:ABE-0004397,UniProtKB/Swiss-Prot:P23857] [protein=thiosulfate:cyanide sulfurtransferase (rhodanese)] [protein_id=NP_415824.1] [location=1369689..1370003]
+ATGTTTAAAAAAGGCTTACTTGCTCTGGCACTGGTGTTTTCACTGCCCGTTTTCGCC
+>lcl|NC_000913.3_cds_NP_415835.1_1304 [gene=ompG] [locus_tag=b1319] [db_xref=ASAP:ABE-0004425,UniProtKB/Swiss-Prot:P76045] [protein=outer membrane porin G] [protein_id=NP_415835.1] [location=1381947..1382852]
+ATGAAAAAGTTATTACCCTGTACCGCACTGGTGATGTGTGCGGGAATGGCCTGCGCA
+>lcl|NC_000913.3_cds_NP_415845.2_1316 [gene=mppA] [locus_tag=b1329] [db_xref=ASAP:ABE-0004460,UniProtKB/Swiss-Prot:P77348] [protein=murein tripeptide (L-ala-gamma-D-glutamyl-meso-DAP) transporter subunit] [protein_id=NP_415845.2] [location=1393227..1394840]
+ATGAAGCACTCTGTTTCAGTCACGTGTTGTGCGCTGTTGGTCAGCAGCATTTCTCTTTCGTATGCT
+>lcl|NC_000913.3_cds_YP_588452.1_1351 [gene=rzoR] [locus_tag=b4528] [db_xref=ASAP:ABE-0285049,UniProtKB/Swiss-Prot:P58042] [protein=Rac prophage; putative lipoprotein] [protein_id=YP_588452.1] [location=1423400..1423585]
+ATGCGAAAGCTGAAAATGATGCTCTGCGTGATGATGTTGCCGCTGGTCGTCGTCGGT
+>lcl|NC_000913.3_cds_NP_415895.1_1364 [gene=ompN] [locus_tag=b1377] [db_xref=ASAP:ABE-0004608,UniProtKB/Swiss-Prot:P77747] [protein=outer membrane pore protein N, non-specific] [protein_id=NP_415895.1] [location=complement(1435760..1436893)]
+ATGAAAAGCAAAGTACTGGCACTTTTAATTCCTGCCCTGCTCGCCGCAGGTGCTGCACATGCA
+>lcl|NC_000913.3_cds_YP_588453.1_1366 [gene=ydbJ] [locus_tag=b4529] [db_xref=ASAP:ABE-0285050,UniProtKB/Swiss-Prot:P0ACW2] [protein=DUF333 family putative lipoprotein] [protein_id=YP_588453.1] [location=1441058..1441324]
+ATGCGAGCAGCGTTTTGGGTAGGGTGTGCCGCTTTATTGTTGTCGGCGTGTAGTAGTGAACCTGTTCAGCAG
+>lcl|NC_000913.3_cds_NP_415897.1_1367 [gene=hslJ] [locus_tag=b1379] [db_xref=ASAP:ABE-0004616,UniProtKB/Swiss-Prot:P52644] [protein=heat-inducible lipoprotein involved in novobiocin resistance] [protein_id=NP_415897.1] [location=complement(1441321..1441743)]
+ATGAAGAAAGTAGCCGCGTTTGTTGCGCTAAGCCTGCTGATGGCGGGATGTGTAAGTAAT
+>lcl|NC_000913.3_cds_NP_415904.3_1374 [gene=tynA] [locus_tag=b1386] [db_xref=ASAP:ABE-0004639,UniProtKB/Swiss-Prot:P46883] [protein=tyramine oxidase, copper-requiring] [protein_id=NP_415904.3] [location=complement(1449076..1451349)]
+ATGGGAAGCCCCTCTCTGTATTCTGCCCGTAAAACAACCCTGGCGTTGGCAGTCGCCTTAAGTTTCGCCTGGCAAGCGCCGGTATTTGCC
+>lcl|NC_000913.3_cds_NP_415941.5_1412 [gene=opgD] [locus_tag=b1424] [db_xref=ASAP:ABE-0004754,UniProtKB/Swiss-Prot:P40120] [protein=OPG biosynthetic periplasmic protein] [protein_id=NP_415941.5] [location=1496856..1498511]
+ATGGATCGTAGACGATTTATTAAAGGTTCAATGGCTATGGCCGCCGTGTGCGGTACCAGCGGCATTGCTTCTCTTTTTTCTCAGGCGGCATTCGCG
+>lcl|NC_000913.3_cds_NP_415948.1_1418 [gene=ydcL] [locus_tag=b1431] [db_xref=ASAP:ABE-0004775,UniProtKB/Swiss-Prot:P64451] [protein=lipoprotein] [protein_id=NP_415948.1] [location=1502457..1503125]
+ATGCGTACCACATCATTTGCGAAAGTTGCAGCTTTATGCGGCTTATTGGCTCTGTCTGGTTGTGCATCTAAA
+>lcl|NC_000913.3_cds_NP_415953.1_1424 [gene=yncJ] [locus_tag=b1436] [db_xref=ASAP:ABE-0004789,UniProtKB/Swiss-Prot:P64459] [protein=uncharacterized protein] [protein_id=NP_415953.1] [location=complement(1508834..1509064)]
+ATGTTTACGAAGGCGTTATCGGTTGTCTTATTAACGTGTGCTCTGTTTTCAGGACAACTCATGGCA
+>lcl|NC_000913.3_cds_NP_415957.1_1428 [gene=ydcS] [locus_tag=b1440] [db_xref=ASAP:ABE-0004803,UniProtKB/Swiss-Prot:P76108] [protein=putative ABC transporter periplasmic binding protein] [protein_id=NP_415957.1] [location=1511654..1512799]
+ATGAGCAAGACATTTGCCCGCAGCAGCCTGTGTGCGCTCAGCATGACAATAATGACCGCTCACGCC
+>lcl|NC_000913.3_cds_NP_415968.1_1440 [gene=yncD] [locus_tag=b1451] [db_xref=ASAP:ABE-0004839,UniProtKB/Swiss-Prot:P76115] [protein=putative iron outer membrane transporter] [protein_id=NP_415968.1] [location=complement(1520963..1523065)]
+ATGAAGATTTTTTCCGTCCGACAGACCGTTTTGCCCGCACTGCTTGTCCTTTCCCCCGTTGTTTTTGCC
+>lcl|NC_000913.3_cds_NP_415969.1_1441 [gene=yncE] [locus_tag=b1452] [db_xref=ASAP:ABE-0004843,UniProtKB/Swiss-Prot:P76116] [protein=ATP-binding protein, periplasmic, function unknown] [protein_id=NP_415969.1] [location=1523307..1524368]
+ATGCATTTACGTCATCTGTTTTCATCGCGCCTGCGTGGTTCATTACTGTTAGGTTCATTGCTTGTTGTTTCATCATTCAGTACGCAGGCC
+>lcl|NC_000913.3_cds_NP_416004.1_1474 [gene=ddpA] [locus_tag=b1487] [db_xref=ASAP:ABE-0004958,UniProtKB/Swiss-Prot:P76128] [protein=D,D-dipeptide ABC transporter periplasmic binding protein] [protein_id=NP_416004.1] [location=complement(1560931..1562481)]
+ATGAAGAGATCGATATCGTTTCGTCCCACATTGCTCGCGCTCGTCCTTGCCACAAATTTCCCGGTTGCGCACGCC
+>lcl|NC_000913.3_cds_NP_416033.1_1502 [gene=lsrB] [locus_tag=b1516] [db_xref=ASAP:ABE-0005063,UniProtKB/Swiss-Prot:P76142] [protein=autoinducer 2-binding protein] [protein_id=NP_416033.1] [location=1605051..1606073]
+ATGACACTTCATCGCTTTAAGAAAATCGCCTTACTTAGCGCTCTTGGCATTGCCGCAATCTCTATGAATGTGCAGGCC
+>lcl|NC_000913.3_cds_NP_416100.1_1571 [gene=ynfB] [locus_tag=b1583] [db_xref=ASAP:ABE-0005284,UniProtKB/Swiss-Prot:P76170] [protein=UPF0482 family putative periplasmic protein] [protein_id=NP_416100.1] [location=1655808..1656149]
+ATGAAAATCACTCTCAGCAAACGAATCGGCCTGCTCGCTATTCTGCTGCCTTGCGCACTGGCATTGAGCACAACTGTTCATGCC
+>lcl|NC_000913.3_cds_NP_416103.2_1574 [gene=ynfD] [locus_tag=b1586] [db_xref=ASAP:ABE-0005297,UniProtKB/Swiss-Prot:P76172] [protein=DUF1161 family periplasmic protein] [protein_id=NP_416103.2] [location=1657565..1657870]
+ATGAAACTCTCAACCTGCTGTGCCGCGCTTCTGCTCGCCCTCGCCTCACCCGCGGTACTCGCC
+>lcl|NC_000913.3_cds_NP_416115.1_1587 [gene=ydgD] [locus_tag=b1598] [db_xref=ASAP:ABE-0005340,UniProtKB/Swiss-Prot:P76176] [protein=putative peptidase] [protein_id=NP_416115.1] [location=1671960..1672781]
+ATGCGTACAACCATTGCTGTAGTGTTGGGTGCAATTAGTTTGACGTCTGCTTTTGTGTTTGCA
+>lcl|NC_000913.3_cds_NP_416121.1_1593 [gene=ydgH] [locus_tag=b1604] [db_xref=ASAP:ABE-0005359,UniProtKB/Swiss-Prot:P76177] [protein=DUF1471 family periplasmic protein] [protein_id=NP_416121.1] [location=1678427..1679371]
+ATGAAGCTTAAGAACACCCTCCTGGCGTCGGCACTGCTTTCTGCTATGGCATTCTCCGTTAACGCA
+>lcl|NC_000913.3_cds_NP_416148.1_1621 [gene=rsxG] [locus_tag=b1631] [db_xref=ASAP:ABE-0005459,UniProtKB/Swiss-Prot:P77285] [protein=SoxR iron-sulfur cluster reduction factor component; putative membrane protein of electron transport complex] [protein_id=NP_416148.1] [location=1710204..1710824]
+ATGCTGAAAACTATCCGAAAACACGGCATTACGTTGGCGCTATTTGCAGCGGGTTCAACAGGGTTAACTGCG
+>lcl|NC_000913.3_cds_NP_416156.4_1629 [gene=mliC] [locus_tag=b1639] [db_xref=ASAP:ABE-0005485,UniProtKB/Swiss-Prot:P28224] [protein=inhibitor of c-type lysozyme, membrane-bound; putative lipoprotein] [protein_id=NP_416156.4] [location=complement(1718066..1718395)]
+ATGACTATGAAAAAACTGTTAATTATCATTTTGCCGGTCCTTCTCTCCGGCTGTAGCGCCTTTAAT
+>lcl|NC_000913.3_cds_NP_416163.1_1636 [gene=sodC] [locus_tag=b1646] [db_xref=ASAP:ABE-0005505,UniProtKB/Swiss-Prot:P0AGD1] [protein=superoxide dismutase, Cu, Zn, periplasmic] [protein_id=NP_416163.1] [location=complement(1724134..1724655)]
+ATGAAACGTTTTAGTCTGGCTATTCTGGCGCTGGTTGTTGCAACCGGCGCACAAGCT
+>lcl|NC_000913.3_cds_NP_416172.1_1645 [gene=mepH] [locus_tag=b1655] [db_xref=ASAP:ABE-0005533,UniProtKB/Swiss-Prot:P76190] [protein=murein DD-endopeptidase, space-maker hydrolase] [protein_id=NP_416172.1] [location=1734435..1735250]
+GTGGCGCGGATAAACCGTATTTCGATCACGCTCTGTGCTTTACTTTTTACCACCCTGCCTTTAACGCCTATGGCCCATGCT
+>lcl|NC_000913.3_cds_NP_416192.1_1666 [gene=lpp] [locus_tag=b1677] [db_xref=ASAP:ABE-0005603,UniProtKB/Swiss-Prot:P69776] [protein=murein lipoprotein] [protein_id=NP_416192.1] [location=1757421..1757657]
+ATGAAAGCTACTAAACTGGTACTGGGCGCGGTAATCCTGGGTTCTACTCTGCTGGCAGGTTGCTCCAGCAACGCT
+>lcl|NC_000913.3_cds_NP_416193.1_1667 [gene=ldtE] [locus_tag=b1678] [db_xref=ASAP:ABE-0005605,UniProtKB/Swiss-Prot:P76193] [protein=murein L,D-transpeptidase] [protein_id=NP_416193.1] [location=complement(1757721..1758725)]
+ATGAAACGCGCGTCTTTGCTTACACTCACGCTTATCGGCGCTTTTAGCGCCATCCAGGCTGCCTGGGCG
+>lcl|NC_000913.3_cds_NP_416223.1_1697 [gene=nlpC] [locus_tag=b1708] [db_xref=ASAP:ABE-0005704,UniProtKB/Swiss-Prot:P23898] [protein=putative C40 clan peptidase lipoprotein] [protein_id=NP_416223.1] [location=complement(1792267..1792731)]
+ATGCGTTTCTGCCTTATTTTGATCACAGCACTGCTTCTGGCCGGGTGTAGCCACCATAAA
+>lcl|NC_000913.3_cds_NP_416253.1_1728 [gene=osmE] [locus_tag=b1739] [db_xref=ASAP:ABE-0005799,UniProtKB/Swiss-Prot:P0ADB1] [protein=osmotically-inducible lipoprotein] [protein_id=NP_416253.1] [location=complement(1821918..1822256)]
+ATGAACAAGAATATGGCAGGAATTCTGAGTGCAGCGGCGGTATTAACCATGCTGGCGGGTTGTACGGCT
+>lcl|NC_000913.3_cds_NP_416257.1_1732 [gene=spy] [locus_tag=b1743] [db_xref=ASAP:ABE-0005812,UniProtKB/Swiss-Prot:P77754] [protein=periplasmic ATP-independent protein refolding chaperone, stress-induced] [protein_id=NP_416257.1] [location=complement(1825140..1825625)]
+ATGCGTAAATTAACTGCACTGTTTGTTGCCTCTACCCTGGCTCTTGGCGCGGCTAACCTGGCCCATGCC
+>lcl|NC_000913.3_cds_NP_416268.2_1743 [gene=ynjB] [locus_tag=b1754] [db_xref=ASAP:ABE-0005841,UniProtKB/Swiss-Prot:P76223] [protein=putative ABC transporter periplasmic binding protein] [protein_id=NP_416268.2] [location=1836073..1837239]
+ATGCGCCATTGTGGGTGGTTGCTGGGATTGTTATCGCTGTTTTCTCTGGCAACACATGCC
+>lcl|NC_000913.3_cds_NP_416271.4_1746 [gene=ynjE] [locus_tag=b1757] [db_xref=ASAP:ABE-0005848,UniProtKB/Swiss-Prot:P78067] [protein=molybdopterin synthase sulfurtransferase] [protein_id=NP_416271.4] [location=1839467..1840774]
+ATGAAACGTGTTTCTCAAATGACCGCGCTGGCAATGGCTTTAGGGCTGGCTTGCGCTTCTTCGTGGGCC
+>lcl|NC_000913.3_cds_NP_416296.1_1771 [gene=mipA] [locus_tag=b1782] [db_xref=ASAP:ABE-0005928,UniProtKB/Swiss-Prot:P0A908] [protein=scaffolding protein for murein synthesizing machinery] [protein_id=NP_416296.1] [location=complement(1865726..1866472)]
+GTGACCAAACTCAAACTTCTGGCACTTGGAGTGCTTATCGCAACGTCTGCAGGCGTAGCGCACGCT
+>lcl|NC_000913.3_cds_NP_416307.1_1782 [gene=yoaF] [locus_tag=b1793] [db_xref=ASAP:ABE-0005966,UniProtKB/Swiss-Prot:P64493] [protein=DUF333 family outer membrane lipoprotein] [protein_id=NP_416307.1] [location=complement(1877278..1877532)]
+ATGAAAATTATCAGTTTTGTTCTGCCTTGCTTGCTGGTCCTGGCTGGTTGTTCAACCCCTTCTCAGCCA
+>lcl|NC_000913.3_cds_NP_416335.4_1812 [gene=mntP] [locus_tag=b1821] [db_xref=ASAP:ABE-0006065,UniProtKB/Swiss-Prot:P76264] [protein=putative Mn(2+) efflux pump, mntR-regulated] [protein_id=NP_416335.4] [location=1905688..1906254]
+ATGAATATCACTGCTACTGTTCTTCTTGCGTTTGGTATGTCGATGGATGCATTTGCT
+>lcl|NC_000913.3_cds_NP_416344.1_1822 [gene=prc] [locus_tag=b1830] [db_xref=ASAP:ABE-0006090,UniProtKB/Swiss-Prot:P23865] [protein=carboxy-terminal protease for penicillin-binding protein 3] [protein_id=NP_416344.1] [location=complement(1912768..1914816)]
+ATGAACATGTTTTTTAGGCTTACCGCGTTAGCTGGCCTGCTTGCAATAGCAGGCCAGACCTTCGCT
+>lcl|NC_000913.3_cds_NP_416414.1_1893 [gene=araF] [locus_tag=b1901] [db_xref=ASAP:ABE-0006330,UniProtKB/Swiss-Prot:P02924] [protein=L-arabinose ABC transporter periplasmic binding protein] [protein_id=NP_416414.1] [location=complement(1985139..1986128)]
+ATGCACAAATTTACTAAAGCCCTGGCAGCCATTGGTCTGGCAGCCGTTATGTCACAATCCGCTATGGCG
+>lcl|NC_000913.3_cds_NP_416438.1_1918 [gene=yedD] [locus_tag=b1928] [db_xref=ASAP:ABE-0006416,UniProtKB/Swiss-Prot:P31063] [protein=lipoprotein] [protein_id=NP_416438.1] [location=complement(2007677..2008090)]
+ATGAAAAAACTCGCAATTGCAGGCGCGCTCTTGTTGCTGGCGGGCTGTGCCGAAGTC
+>lcl|NC_000913.3_cds_NP_416458.1_1936 [gene=fliP] [locus_tag=b1948] [db_xref=ASAP:ABE-0006475,UniProtKB/Swiss-Prot:P0AC05] [protein=flagellar biosynthesis protein] [protein_id=NP_416458.1] [location=2021869..2022606]
+ATGCGTCGTTTATTGTCTGTCGCACCTGTCCTTCTCTGGCTGATTACGCCCCTCGCCTTCGCG
+>lcl|NC_000913.3_cds_NP_416514.4_1993 [gene=dacD] [locus_tag=b2010] [db_xref=ASAP:ABE-0006680,UniProtKB/Swiss-Prot:P33013] [protein=D-alanyl-D-alanine carboxypeptidase; penicillin-binding protein 6b] [protein_id=NP_416514.4] [location=complement(2081381..2082547)]
+TTGAAACGCCGTCTTATTATTGCTGCTTCTTTGTTCGTTTTTAACTTATCGTCTGGTTTTGCG
+>lcl|NC_000913.3_cds_NP_416566.1_2047 [gene=wza] [locus_tag=b2062] [db_xref=ASAP:ABE-0006825,UniProtKB/Swiss-Prot:P0A930] [protein=colanic acid export protein; outer membrane auxillary lipoprotein] [protein_id=NP_416566.1] [location=complement(2136104..2137243)]
+ATGATGAAATCCAAAATGAAATTGATGCCATTATTGGTGTCAGTAACCTTGATAAGC
+>lcl|NC_000913.3_cds_NP_416610.4_2092 [gene=rcnB] [locus_tag=b2107] [db_xref=ASAP:ABE-0006970,UniProtKB/Swiss-Prot:P64534] [protein=periplasmic modulator of Ni and Co efflux] [protein_id=NP_416610.4] [location=2186960..2187298]
+ATGACCATTAAAAATAAGATGTTGCTGGGTGCGCTTTTGCTGGTTACCAGTGCCGCCTGGGCC
+>lcl|NC_000913.3_cds_NP_416627.2_2107 [gene=yehR] [locus_tag=b2123] [db_xref=ASAP:ABE-0007018,UniProtKB/Swiss-Prot:P33354] [protein=lipoprotein, DUF1307 family] [protein_id=NP_416627.2] [location=2211225..2211686]
+ATGAAGGCTTTCAATAAGCTGTTTTCCCTCGTTGTTGCATCTGTTCTGGTTTTCTCTCTTGCT
+>lcl|NC_000913.3_cds_NP_416635.1_2116 [gene=osmF] [locus_tag=b2131] [db_xref=ASAP:ABE-0007040,UniProtKB/Swiss-Prot:P33362] [protein=putative ABC transporter periplasmic binding protein] [protein_id=NP_416635.1] [location=complement(2218564..2219481)]
+ATGCCACTCTTAAAGCTCTGGGCAGGTTCACTGGTTATGTTGGCAGCCGTGAGCCTGCCGCTACAGGCG
+>lcl|NC_000913.3_cds_NP_416636.1_2117 [gene=bglX] [locus_tag=b2132] [db_xref=ASAP:ABE-0007043,UniProtKB/Swiss-Prot:P33363] [protein=beta-D-glucoside glucohydrolase, periplasmic] [protein_id=NP_416636.1] [location=complement(2219692..2221989)]
+ATGAAATGGCTATGTTCAGTAGGAATCGCGGTGAGTCTGGCCCTGCAGCCAGCACTGGCG
+>lcl|NC_000913.3_cds_NP_416638.4_2119 [gene=pbpG] [locus_tag=b2134] [db_xref=ASAP:ABE-0007050,UniProtKB/Swiss-Prot:P0AFI5] [protein=D-alanyl-D-alanine endopeptidase] [protein_id=NP_416638.4] [location=complement(2223938..2224870)]
+ATGCCGAAATTTCGAGTTTCTTTATTTAGCCTGGCCCTGATGCTGGCTGTGCCTTTTGCACCGCAGGCCGTTGCG
+>lcl|NC_000913.3_cds_NP_416655.1_2135 [gene=mglB] [locus_tag=b2150] [db_xref=ASAP:ABE-0007108,UniProtKB/Swiss-Prot:P0AEE5] [protein=methyl-galactoside transporter subunit] [protein_id=NP_416655.1] [location=complement(2239350..2240348)]
+ATGAATAAGAAGGTGTTAACCCTGTCTGCTGTGATGGCCAGCATGTTATTCGGTGCCGCTGCACACGCT
+>lcl|NC_000913.3_cds_NP_416660.1_2140 [gene=cirA] [locus_tag=b2155] [db_xref=ASAP:ABE-0007126,UniProtKB/Swiss-Prot:P17315] [protein=colicin IA outer membrane receptor and translocator; ferric iron-catecholate transporter] [protein_id=NP_416660.1] [location=complement(2244778..2246769)]
+ATGTTTAGGTTGAACCCTTTCGTACGGGTCGGGCTGTGTTTGTCCGCTATTTCTTGTGCATGGCCTGTGTTAGCG
+>lcl|NC_000913.3_cds_NP_416682.4_2163 [gene=yejA] [locus_tag=b2177] [db_xref=ASAP:ABE-0007206,UniProtKB/Swiss-Prot:P33913] [protein=microcin C ABC transporter periplasmic binding protein] [protein_id=NP_416682.4] [location=2272364..2274178]
+ATGATTGTGCGCATACTGCTGCTGTTTATCGCTCTGTTCACCTTTGGTGTGCAGGCG
+>lcl|NC_000913.3_cds_NP_416698.1_2178 [gene=ccmH] [locus_tag=b2194] [db_xref=ASAP:ABE-0007262,UniProtKB/Swiss-Prot:P0ABM9] [protein=heme lyase, CcmH subunit] [protein_id=NP_416698.1] [location=complement(2291358..2292410)]
+ATGAGGTTTTTATTGGGCGTGCTGATGCTGATGATCTCCGGCTCAGCGCTGGCG
+>lcl|NC_000913.3_cds_NP_416707.4_2187 [gene=napB] [locus_tag=b2203] [db_xref=ASAP:ABE-0007283,UniProtKB/Swiss-Prot:P0ABL3] [protein=nitrate reductase, small, cytochrome C550 subunit, periplasmic] [protein_id=NP_416707.4] [location=complement(2298269..2298718)]
+ATGAAAAGCCATGACCTGAAGAAAGCGCTGTGTCAATGGACGGCGATGCTGGCCCTGGTGGTAAGCGGCGCGGTTTGGGCG
+>lcl|NC_000913.3_cds_NP_416710.1_2190 [gene=napA] [locus_tag=b2206] [db_xref=ASAP:ABE-0007289,UniProtKB/Swiss-Prot:P33937] [protein=nitrate reductase, periplasmic, large subunit] [protein_id=NP_416710.1] [location=complement(2300267..2302753)]
+ATGAAACTCAGTCGTCGTAGCTTTATGAAAGCTAACGCCGTTGCGGCCGCTGCGGCGGCTGCCGGTCTCAGCGTGCCGGGCGTTGCCCGCGCC
+>lcl|NC_000913.3_cds_NP_416713.1_2193 [gene=eco] [locus_tag=b2209] [db_xref=ASAP:ABE-0007297,UniProtKB/Swiss-Prot:P23827] [protein=ecotin, a serine protease inhibitor] [protein_id=NP_416713.1] [location=2303905..2304393]
+ATGAAGACCATTCTACCTGCAGTATTGTTTGCCGCTTTCGCTACCACTTCCGCCTGGGCG
+>lcl|NC_000913.3_cds_NP_416714.1_2194 [gene=mqo] [locus_tag=b2210] [db_xref=ASAP:ABE-0007300,UniProtKB/Swiss-Prot:P33940] [protein=malate dehydrogenase, FAD/NAD(P)-binding domain] [protein_id=NP_416714.1] [location=complement(2305108..2306754)]
+ATGAAAAAAGTGACTGCCATGCTCTTCTCGATGGCCGTGGGGCTTAATGCCGTTTCGATGGCG
+>lcl|NC_000913.3_cds_NP_416719.1_2199 [gene=ompC] [locus_tag=b2215] [db_xref=ASAP:ABE-0007321,UniProtKB/Swiss-Prot:P06996] [protein=outer membrane porin protein C] [protein_id=NP_416719.1] [location=complement(2311646..2312749)]
+ATGAAAGTTAAAGTACTGTCCCTCCTGGTCCCAGCTCTGCTGGTAGCAGGCGCAGCAAACGCT
+>lcl|NC_000913.3_cds_NP_416729.1_2209 [gene=yfaP] [locus_tag=b2225] [db_xref=ASAP:ABE-0007357,UniProtKB/Swiss-Prot:P76462] [protein=DUF2135 family protein, putative host defense protein] [protein_id=NP_416729.1] [location=complement(2327367..2328143)]
+ATGCGAAAGATTTTTCTTCCGTTGTTACTGGTGGCGCTTTCGCCTGTCGCTCACAGT
+>lcl|NC_000913.3_cds_NP_416730.1_2210 [gene=yfaQ] [locus_tag=b2226] [db_xref=ASAP:ABE-0007359,UniProtKB/Swiss-Prot:P76463] [protein=tandem DUF2300 domain protein, putative host defense protein] [protein_id=NP_416730.1] [location=complement(2328148..2329797)]
+GTGAACTGGCGCAGAATCGTCTGGCTATTGGCGTTGGTTACTCTGCCAACACTTGCG
+>lcl|NC_000913.3_cds_NP_416732.4_2212 [gene=yfaT] [locus_tag=b2229] [db_xref=ASAP:ABE-0007366,UniProtKB/Swiss-Prot:P76466] [protein=DUF1175 family protein, putative host defense protein] [protein_id=NP_416732.4] [location=complement(2334336..2334959)]
+ATGAGGCACGGGCTGCTGGCGCTGATTTGCTGGCTGTGTTGTGTTGTTGCCCATAGC
+>lcl|NC_000913.3_cds_NP_416736.1_2216 [gene=yfaL] [locus_tag=b2233] [db_xref=ASAP:ABE-0007377,UniProtKB/Swiss-Prot:P45508] [protein=adhesin] [protein_id=NP_416736.1] [location=complement(2340417..2344169)]
+ATGCGGATTATCTTTCTACGCAAGGAGTATTTATCTTTACTCCCGTCAATGATTGCATCTCTTTTCTCTGCTAACGGTGTCGCG
+>lcl|NC_000913.3_cds_NP_416742.1_2222 [gene=glpQ] [locus_tag=b2239] [db_xref=ASAP:ABE-0007399,UniProtKB/Swiss-Prot:P09394] [protein=periplasmic glycerophosphodiester phosphodiesterase] [protein_id=NP_416742.1] [location=complement(2349935..2351011)]
+ATGAAATTGACGCTGAAAAACCTTAGCATGGCGATCATGATGAGCACTATAGTCATGGGAAGCAGTGCAATGGCG
+>lcl|NC_000913.3_cds_NP_416753.4_2234 [gene=yfaZ] [locus_tag=b2250] [db_xref=ASAP:ABE-0007445,UniProtKB/Swiss-Prot:P76471] [protein=outer membrane protein, putative porin] [protein_id=NP_416753.4] [location=complement(2363733..2364275)]
+ATGAAAAAAATTGCGCTAGCAGGTCTGGCCGGAATGCTGTTGGTTTCTGCATCGGTCAATGCA
+>lcl|NC_000913.3_cds_NP_416812.1_2294 [gene=hisJ] [locus_tag=b2309] [db_xref=ASAP:ABE-0007617,UniProtKB/Swiss-Prot:P0AEU0] [protein=histidine ABC transporter periplasmic binding protein] [protein_id=NP_416812.1] [location=complement(2426006..2426788)]
+ATGAAAAAACTGGTGCTATCGCTCTCTCTGGTTCTGGCCTTCTCCAGCGCAACTGCGGCGTTTGCT
+>lcl|NC_000913.3_cds_NP_416813.1_2295 [gene=argT] [locus_tag=b2310] [db_xref=ASAP:ABE-0007621,UniProtKB/Swiss-Prot:P09551] [protein=lysine/arginine/ornithine transporter subunit] [protein_id=NP_416813.1] [location=complement(2427009..2427791)]
+ATGAAGAAGTCGATTCTCGCTCTGTCTTTGTTAGTCGGTCTCTCCACAGCGGCTTCCAGCTATGCG
+>lcl|NC_000913.3_cds_NP_416831.1_2313 [gene=mepA] [locus_tag=b2328] [db_xref=ASAP:ABE-0007691,UniProtKB/Swiss-Prot:P0C0T5] [protein=murein DD-endopeptidase] [protein_id=NP_416831.1] [location=complement(2445560..2446384)]
+ATGAATAAAACCGCGATTGCGCTGCTGGCTCTGCTTGCCAGTAGCGCCAGCCTGGCA
+>lcl|NC_000913.3_cds_NP_416839.1_2321 [gene=yfcS] [locus_tag=b2336] [db_xref=ASAP:ABE-0007709,UniProtKB/Swiss-Prot:P77599] [protein=putative periplasmic pilin chaperone] [protein_id=NP_416839.1] [location=complement(2451584..2452336)]
+ATGTCTGATTTACTTTGCTCTGCCAAATTGGGTGCTATGACGCTGGCGTTACTGCTTAGCGCTACCAGTTTGTCTGCCCTGGCG
+>lcl|NC_000913.3_cds_NP_416841.1_2323 [gene=yfcV] [locus_tag=b2339] [db_xref=ASAP:ABE-0007715,UniProtKB/Swiss-Prot:P77288] [protein=putative fimbrial-like adhesin protein] [protein_id=NP_416841.1] [location=complement(2455083..2455646)]
+ATGAGTAAGTTTGTTAAAACAGCTATTGCTGCGGCAATGGTGATGGGCGCGTTCACCTCTACGGCAACAATCGCT
+>lcl|NC_000913.3_cds_NP_416846.2_2328 [gene=fadL] [locus_tag=b2344] [db_xref=ASAP:ABE-0007740,UniProtKB/Swiss-Prot:P10384] [protein=long-chain fatty acid outer membrane transporter] [protein_id=NP_416846.2] [location=2461306..2462646]
+ATGAGCCAGAAAACCCTGTTTACAAAGTCTGCTCTCGCAGTCGCAGTGGCACTTATCTCCACCCAGGCCTGGTCG
+>lcl|NC_000913.3_cds_NP_416848.1_2330 [gene=mlaA] [locus_tag=b2346] [db_xref=ASAP:ABE-0007745,UniProtKB/Swiss-Prot:P76506] [protein=ABC transporter maintaining OM lipid asymmetry, OM lipoprotein component] [protein_id=NP_416848.1] [location=complement(2464252..2465007)]
+ATGAAGCTTCGCCTGTCGGCGCTTGCTCTGGGAACTACGCTTCTGGTGGGGTGTGCGAGTTCC
+>lcl|NC_000913.3_cds_NP_416888.1_2373 [gene=fryB] [locus_tag=b2387] [db_xref=ASAP:ABE-0007873,UniProtKB/Swiss-Prot:P69808] [protein=putative enzyme IIB component of PTS] [protein_id=NP_416888.1] [location=complement(2507916..2508242)]
+ATGAGTAAGAAACTGATTGCCTTATGTGCCTGCCCGATGGGCCTGGCTCACACCTTTATGGCCGCTCAGGCG
+>lcl|NC_000913.3_cds_NP_416891.1_2376 [gene=ypeC] [locus_tag=b2390] [db_xref=ASAP:ABE-0007883,UniProtKB/Swiss-Prot:P64542] [protein=DUF2502 family putative periplasmic protein] [protein_id=NP_416891.1] [location=2511001..2511327]
+ATGTTCAGGTCACTGTTTCTGGCGGCCGCCCTGATGGCATTTACCCCGCTTGCAGCAAACGCA
+>lcl|NC_000913.3_cds_NP_416903.1_2387 [gene=yfeN] [locus_tag=b2408] [db_xref=ASAP:ABE-0007930,UniProtKB/Swiss-Prot:P45564] [protein=putative outer membrane protein] [protein_id=NP_416903.1] [location=2525127..2525891]
+ATGAAAAAACATCTTTTAACTCTGACACTTTCCTCTATATTAGCGATACCTGTTGTATCTCATGCA
+>lcl|NC_000913.3_cds_NP_416920.1_2405 [gene=cysP] [locus_tag=b2425] [db_xref=ASAP:ABE-0007992,UniProtKB/Swiss-Prot:P16700] [protein=thiosulfate-binding protein] [protein_id=NP_416920.1] [location=complement(2542512..2543528)]
+ATGGCCGTTAACTTACTGAAAAAGAACTCACTCGCGCTGGTCGCTTCTCTGCTGCTGGCGGGCCATGTACAGGCA
+>lcl|NC_000913.3_cds_NP_416925.2_2410 [gene=yfeW] [locus_tag=b2430] [db_xref=ASAP:ABE-0008012,UniProtKB/Swiss-Prot:P77619] [protein=penicillin binding protein PBP4B; weak DD-carboxypeptidase activity] [protein_id=NP_416925.2] [location=2548102..2549406]
+ATGAAACGGACAATGCTCTATCTTTCTCTGCTGGCTGTTAGTTGTAGCGTCAGCGCC
+>lcl|NC_000913.3_cds_NP_416927.1_2412 [gene=yfeY] [locus_tag=b2432] [db_xref=ASAP:ABE-0008017,UniProtKB/Swiss-Prot:P76537] [protein=RpoE-regulated lipoprotein] [protein_id=NP_416927.1] [location=complement(2550641..2551216)]
+ATGAAATCGCTGCGTTTAATGTTATGCGCTATGCCATTGATGCTGACCGGCTGTTCCACGATGTCGTCAGTTAACTGGTCTGCC
+>lcl|NC_000913.3_cds_NP_416930.1_2415 [gene=amiA] [locus_tag=b2435] [db_xref=ASAP:ABE-0008032,UniProtKB/Swiss-Prot:P36548] [protein=N-acetylmuramoyl-l-alanine amidase I] [protein_id=NP_416930.1] [location=2552352..2553221]
+ATGAGCACTTTTAAACCACTAAAAACACTCACTTCGCGCCGCCAGGTGCTGAAAGCCGGTTTGGCTGCCCTGACGTTGTCAGGAATGTCGCAAGCCATCGCC
+>lcl|NC_000913.3_cds_NP_416961.1_2446 [gene=ypfG] [locus_tag=b2466] [db_xref=ASAP:ABE-0008120,UniProtKB/Swiss-Prot:P76559] [protein=DUF1176 family protein] [protein_id=NP_416961.1] [location=complement(2581734..2582777)]
+ATGCGCTATCGCATTTTCCTTCTCTTTTTTTTCGCTTTGTTGCCGACGTCTTTGGTGTGGGCG
+>lcl|NC_000913.3_cds_NP_416989.1_2476 [gene=bepA] [locus_tag=b2494] [db_xref=ASAP:ABE-0008212,UniProtKB/Swiss-Prot:P66948] [protein=OM protein maintenance and assembly metalloprotease and chaperone, periplasmic] [protein_id=NP_416989.1] [location=2616094..2617557]
+ATGTTCAGGCAGTTGAAAAAAAACCTGGTTGCAACCCTCATTGCTGCTATGACCATTGGTCAGGTAGCCCCGGCGTTTGCC
+>lcl|NC_000913.3_cds_NP_417007.1_2494 [gene=bamB] [locus_tag=b2512] [db_xref=ASAP:ABE-0008272,UniProtKB/Swiss-Prot:P77774] [protein=BamABCDE complex OM biogenesis lipoprotein] [protein_id=NP_417007.1] [location=complement(2637474..2638652)]
+ATGCAATTGCGTAAATTACTGCTGCCAGGACTGCTTTCCGTTACCCTTTTAAGCGGCTGTTCGCTGTTT
+>lcl|NC_000913.3_cds_NP_417015.1_2502 [gene=yfhM] [locus_tag=b2520] [db_xref=ASAP:ABE-0008296,UniProtKB/Swiss-Prot:P76578] [protein=bacterial alpha2-macroglobulin colonization factor ECAM; anti-host protease defense factor; periplasmic inner membrane-anchored lipoprotein] [protein_id=NP_417015.1] [location=complement(2647326..2652287)]
+ATGAAAAAGTTACGCGTAGCCGCCTGCATGCTAATGCTGGCGCTGGCAGGGTGCGACAACAAC
+>lcl|NC_000913.3_cds_NP_417050.1_2538 [gene=yfhG] [locus_tag=b2555] [db_xref=ASAP:ABE-0008405,UniProtKB/Swiss-Prot:P0AD44] [protein=putative outer membrane protein modulating the QseEF response] [protein_id=NP_417050.1] [location=complement(2688793..2689506)]
+ATGCGACACATTTTTCAACGATTATTGCCCCGACGGCTGTGGCTGGCAGGGCTGCCATGTCTGGCA
+>lcl|NC_000913.3_cds_NP_417066.1_2555 [gene=rseB] [locus_tag=b2571] [db_xref=ASAP:ABE-0008459,UniProtKB/Swiss-Prot:P0AFX9] [protein=anti-sigma E factor, binds RseA] [protein_id=NP_417066.1] [location=complement(2707798..2708754)]
+ATGAAGCAACTTTGGTTTGCCATGTCATTAGTGACAGGTAGCCTGTTATTCTCTGCTAACGCCTCGGCC
+>lcl|NC_000913.3_cds_NP_417081.2_2570 [gene=yfiM] [locus_tag=b2586] [db_xref=ASAP:ABE-0008513,UniProtKB/Swiss-Prot:P46126] [protein=putative lipoprotein] [protein_id=NP_417081.2] [location=2724128..2724451]
+TTGCGTATTCTTTTTGTCTGTTCGCTATTGTTACTTTCTGGATGCAGCCATATGGCT
+>lcl|NC_000913.3_cds_NP_417086.1_2575 [gene=bamD] [locus_tag=b2595] [db_xref=ASAP:ABE-0008536,UniProtKB/Swiss-Prot:P0AC02] [protein=BamABCDE complex OM biogenesis lipoprotein] [protein_id=NP_417086.1] [location=2736146..2736883]
+ATGACGCGCATGAAATATCTGGTGGCAGCCGCCACACTAAGCCTGTTTTTGGCGGGTTGCTCGGGGTCA
+>lcl|NC_000913.3_cds_NP_417107.2_2595 [gene=bamE] [locus_tag=b2617] [db_xref=ASAP:ABE-0008614,UniProtKB/Swiss-Prot:P0A937] [protein=lipoprotein component of BamABCDE OM biogenesis complex] [protein_id=NP_417107.2] [location=2753605..2753946]
+ATGCGCTGTAAAACGCTGACTGCTGCAGCAGCAGTACTATTGATGTTGACCGCAGGCTGTTCCACTCTG
+>lcl|NC_000913.3_cds_NP_417124.4_2613 [gene=yfjS] [locus_tag=b2636] [db_xref=ASAP:ABE-0008680,UniProtKB/Swiss-Prot:O52982] [protein=CP4-57 prophage; uncharacterized protein] [protein_id=NP_417124.4] [location=2770681..2771124]
+ATGAAACGTAAAACACTACCTCTGCTGGCGCTGGTTGCCACCTCTCTGTTTCTGAGCGCC
+>lcl|NC_000913.3_cds_NP_417125.1_2614 [gene=yfjT] [locus_tag=b2637] [db_xref=ASAP:ABE-0008683,UniProtKB/Swiss-Prot:P52135] [protein=CP4-57 prophage; putative periplasmic protein] [protein_id=NP_417125.1] [location=2771148..2771615]
+ATGAAAATACGTTCACTAAGCCGGTTTGTACTGGCAAGTACAATGTTCGCCAGCTTTACAGCCTCTGCG
+>lcl|NC_000913.3_cds_NP_417165.1_2648 [gene=proX] [locus_tag=b2679] [db_xref=ASAP:ABE-0008818,UniProtKB/Swiss-Prot:P0AFM2] [protein=glycine betaine/proline ABC transporter periplasmic binding protein; cold shock protein] [protein_id=NP_417165.1] [location=2807132..2808124]
+ATGCGACATAGCGTACTTTTTGCGACAGCGTTTGCCACGCTTATCTCTACACAAACTTTTGCT
+>lcl|NC_000913.3_cds_NP_417181.1_2664 [gene=mltB] [locus_tag=b2701] [db_xref=ASAP:ABE-0008885,UniProtKB/Swiss-Prot:P41052] [protein=membrane-bound lytic murein transglycosylase B] [protein_id=NP_417181.1] [location=complement(2824491..2825576)]
+ATGTTCAAGCGTCGTTATGTAACATTGCTTCCCCTTTTTGTGTTGCTTGCCGCCTGTAGCAGCAAGCCA
+>lcl|NC_000913.3_cds_NP_417222.1_2705 [gene=nlpD] [locus_tag=b2742] [db_xref=ASAP:ABE-0009004,UniProtKB/Swiss-Prot:P0ADA3] [protein=activator of AmiC murein hydrolase activity, lipoprotein] [protein_id=NP_417222.1] [location=complement(2867614..2868753)]
+ATGAGCGCGGGAAGCCCAAAATTCACCGTTCGCCGCATTGCGGCTTTGTCACTGGTTTCGCTATGGCTGGCA
+>lcl|NC_000913.3_cds_NP_417289.2_2772 [gene=ygdI] [locus_tag=b2809] [db_xref=ASAP:ABE-0009214,UniProtKB/Swiss-Prot:P65292] [protein=DUF903 family verified lipoprotein] [protein_id=NP_417289.2] [location=complement(2942918..2943145)]
+ATGAAAAAGACTGCCGCAATTATTTCTGCCTGTATGCTGACTTTTGCCCTGAGCGCCTGTTCC
+>lcl|NC_000913.3_cds_NP_417293.1_2776 [gene=mltA] [locus_tag=b2813] [db_xref=ASAP:ABE-0009228,UniProtKB/Swiss-Prot:P0A935] [protein=membrane-bound lytic murein transglycosylase A] [protein_id=NP_417293.1] [location=complement(2946081..2947178)]
+ATGAAAGGACGTTGGGTAAAGTACCTTCTTATGGGCACGGTTGTGGCAATGCTTGCC
+>lcl|NC_000913.3_cds_NP_417298.1_2781 [gene=ptrA] [locus_tag=b2821] [db_xref=ASAP:ABE-0009252,UniProtKB/Swiss-Prot:P05458] [protein=protease III] [protein_id=NP_417298.1] [location=complement(2955996..2958884)]
+ATGCCCCGCAGCACCTGGTTCAAAGCATTATTGTTGTTAGTTGCCCTTTGGGCACCCTTAAGTCAGGCA
+>lcl|NC_000913.3_cds_NP_417369.1_2850 [gene=dsbC] [locus_tag=b2893] [db_xref=ASAP:ABE-0009494,UniProtKB/Swiss-Prot:P0AEG6] [protein=protein disulfide isomerase II] [protein_id=NP_417369.1] [location=complement(3038112..3038822)]
+ATGAAGAAAGGTTTTATGTTGTTTACTTTGTTAGCGGCGTTTTCAGGCTTTGCTCAGGCT
+>lcl|NC_000913.3_cds_NP_417397.1_2879 [gene=yggE] [locus_tag=b2922] [db_xref=ASAP:ABE-0009588,UniProtKB/Swiss-Prot:P0ADS6] [protein=oxidative stress defense protein] [protein_id=NP_417397.1] [location=complement(3067340..3068080)]
+GTGAAGTTCAAAGTTATCGCCCTGGCGGCATTAATGGGTATTAGCGGGATGGCAGCGCAGGCT
+>lcl|NC_000913.3_cds_NP_417420.1_2900 [gene=endA] [locus_tag=b2945] [db_xref=ASAP:ABE-0009661,UniProtKB/Swiss-Prot:P25736] [protein=DNA-specific endonuclease I] [protein_id=NP_417420.1] [location=3090347..3091054]
+ATGTACCGTTATTTGTCTATTGCTGCGGTGGTACTGAGCGCAGCATTTTCCGGCCCGGCGTTGGCC
+>lcl|NC_000913.3_cds_NP_417432.1_2912 [gene=ansB] [locus_tag=b2957] [db_xref=ASAP:ABE-0009700,UniProtKB/Swiss-Prot:P00805] [protein=periplasmic L-asparaginase 2] [protein_id=NP_417432.1] [location=complement(3099682..3100728)]
+ATGGAGTTTTTCAAAAAGACGGCACTTGCCGCACTGGTTATGGGTTTTAGTGGTGCAGCATTGGCA
+>lcl|NC_000913.3_cds_NP_417433.1_2913 [gene=yggN] [locus_tag=b2958] [db_xref=ASAP:ABE-0009706,UniProtKB/Swiss-Prot:P0ADS9] [protein=DUF2884 family putative periplasmic protein] [protein_id=NP_417433.1] [location=complement(3100904..3101623)]
+ATGATGCGCAAAATGCTGCTGGCGGCAGCACTTTCAGTGACGGCAATGACCGCTCACGCC
+>lcl|NC_000913.3_cds_NP_417438.2_2918 [gene=mltC] [locus_tag=b2963] [db_xref=ASAP:ABE-0009725,UniProtKB/Swiss-Prot:P0C066] [protein=membrane-bound lytic murein transglycosylase C] [protein_id=NP_417438.2] [location=3104433..3105512]
+ATGAAAAAATATCTCGCGCTGGCTTTGATTGCGCCGTTGCTCATCTCCTGTTCGACGACCAAAAAAGGC
+>lcl|NC_000913.3_cds_YP_026189.1_2927 [gene=sslE] [locus_tag=b4466] [db_xref=ASAP:ABE-0174096,UniProtKB/Swiss-Prot:P0CK95] [protein=putative secreted and surface-associated lipoprotein mucinase] [protein_id=YP_026189.1] [location=complement(3114550..3119112)]
+ATGAATAAGAAATTTAAATATAAGAAATCGCTTTTAGCGGCTATTTTGAGCGCAACCCTGTTAGCC
+>lcl|NC_000913.3_cds_NP_417470.1_2950 [gene=hybA] [locus_tag=b2996] [db_xref=ASAP:ABE-0009832,UniProtKB/Swiss-Prot:P0AAJ8] [protein=hydrogenase 2 4Fe-4S ferredoxin-type component] [protein_id=NP_417470.1] [location=complement(3144154..3145140)]
+GTGAACAGACGTAATTTTATTAAAGCAGCCTCCTGCGGGGCATTGCTGACGGGCGCGCTGCCGTCTGTCAGTCATGCG
+>lcl|NC_000913.3_cds_NP_417489.1_2967 [gene=ftsP] [locus_tag=b3017] [db_xref=ASAP:ABE-0009905,UniProtKB/Swiss-Prot:P26648] [protein=septal ring component that protects the divisome from stress; multicopy suppressor of ftsI(Ts)] [protein_id=NP_417489.1] [location=complement(3161257..3162669)]
+ATGTCACTCAGTCGGCGTCAGTTCATTCAGGCATCGGGGATTGCACTTTGTGCAGGCGCTGTTCCCCTGAAGGCCAGCGCA
+>lcl|NC_000913.3_cds_NP_417492.1_2970 [gene=ygiS] [locus_tag=b3020] [db_xref=ASAP:ABE-0009920,UniProtKB/Swiss-Prot:Q46863] [protein=putative ABC transporter permease] [protein_id=NP_417492.1] [location=complement(3166111..3167718)]
+ATGTATACGCGAAATTTATTATGGCTGGTCAGCCTGGTAAGTGCGGCTCCTCTCTACGCT
+>lcl|NC_000913.3_cds_NP_417496.1_2974 [gene=ygiW] [locus_tag=b3024] [db_xref=ASAP:ABE-0009930,UniProtKB/Swiss-Prot:P0ADU5] [protein=hydrogen peroxide and cadmium resistance periplasmic protein; stress-induced OB-fold protein] [protein_id=NP_417496.1] [location=complement(3169284..3169676)]
+ATGAAAAAATTCGCAGCAGTAATCGCAGTAATGGCCCTGTGCAGCGCACCGGTGATGGCA
+>lcl|NC_000913.3_cds_NP_417507.2_2985 [gene=tolC] [locus_tag=b3035] [db_xref=ASAP:ABE-0009965,UniProtKB/Swiss-Prot:P02930] [protein=transport channel] [protein_id=NP_417507.2] [location=3178115..3179596]
+ATGAAGAAATTGCTCCCCATTCTTATCGGCCTGAGCCTTTCTGGGTTCAGTTCGTTGAGCCAGGCC
+>lcl|NC_000913.3_cds_NP_417515.1_2992 [gene=ygiL] [locus_tag=b3043] [db_xref=ASAP:ABE-0009992,UniProtKB/Swiss-Prot:P39834] [protein=putative fimbrial-like adhesin protein] [protein_id=NP_417515.1] [location=3185414..3185965]
+ATGTCCGCTTTTAAAAAGTCACTTCTTGTTGCTGGCGTAGCAATGATTCTTTCCAATAACGTGTTTGCT
+>lcl|NC_000913.3_cds_NP_417527.1_3006 [gene=ygiM] [locus_tag=b3055] [db_xref=ASAP:ABE-0010028,UniProtKB/Swiss-Prot:P0ADT8] [protein=SH3 domain protein] [protein_id=NP_417527.1] [location=3201207..3201827]
+ATGCCAAAATTACGCCTGATCGGATTAACTTTACTCGCACTTAGCGCGACTGCCGTCTCACACGCT
+>lcl|NC_000913.3_cds_NP_417550.1_3029 [gene=ygjJ] [locus_tag=b3079] [db_xref=ASAP:ABE-0010115,UniProtKB/Swiss-Prot:P42591] [protein=putative periplasmic protein] [protein_id=NP_417550.1] [location=3227801..3228871]
+ATGAAATTAATCACTGCACCATGCAGAGCATTACTTGCTCTGCCGTTTTGCTACGCCTTTTCT
+>lcl|NC_000913.3_cds_NP_417551.1_3030 [gene=ygjK] [locus_tag=b3080] [db_xref=ASAP:ABE-0010118,UniProtKB/Swiss-Prot:P42592] [protein=alpha-glucosidase] [protein_id=NP_417551.1] [location=3228888..3231239]
+ATGAAAATAAAAACTATTTTAACGCCAGTAACCTGCGCTCTGCTGATAAGTTTTTCCGCCCATGCC
+>lcl|NC_000913.3_cds_NP_417568.2_3047 [gene=yqjC] [locus_tag=b3097] [db_xref=ASAP:ABE-0010188,UniProtKB/Swiss-Prot:P42616] [protein=DUF1090 family putative periplasmic protein] [protein_id=NP_417568.2] [location=3248969..3249337]
+ATGAAATACCGCATCGCTTTAGCTGTTTCTCTCTTTGCTCTTAGTGCCGGTAGTTATGCC
+>lcl|NC_000913.3_cds_NP_417616.1_3093 [gene=lpoA] [locus_tag=b3147] [db_xref=ASAP:ABE-0010343,UniProtKB/Swiss-Prot:P45464] [protein=OM lipoprotein stimulator of MrcA transpeptidase] [protein_id=NP_417616.1] [location=3293400..3295436]
+ATGGTACCCTCAACATTTTCTCGTTTGAAAGCCGCGCGTTGTCTGCCTGTTGTTCTGGCAGCCCTGATTTTCGCC
+>lcl|NC_000913.3_cds_NP_417619.1_3096 [gene=yraP] [locus_tag=b3150] [db_xref=ASAP:ABE-0010350,UniProtKB/Swiss-Prot:P64596] [protein=outer membrane lipoprotein] [protein_id=NP_417619.1] [location=3296409..3296984]
+ATGAAGGCATTATCGCCAATCGCAGTCCTTATTTCCGCGCTGCTGTTGCAAGGTTGTGTTGCCGCT
+>lcl|NC_000913.3_cds_NP_417649.1_3127 [gene=dacB] [locus_tag=b3182] [db_xref=ASAP:ABE-0010458,UniProtKB/Swiss-Prot:P24228] [protein=D-alanyl-D-alanine carboxypeptidase] [protein_id=NP_417649.1] [location=3328963..3330396]
+ATGCGATTTTCCAGATTTATCATCGGATTGACCAGCTGTATAGCGTTCAGTGTTCAGGCC
+>lcl|NC_000913.3_cds_NP_417659.1_3137 [gene=mlaC] [locus_tag=b3192] [db_xref=ASAP:ABE-0010489,UniProtKB/Swiss-Prot:P0ADV7] [protein=ABC transporter maintaining OM lipid asymmetry, periplasmic binding protein] [protein_id=NP_417659.1] [location=complement(3337256..3337891)]
+ATGTTTAAACGTTTAATGATGGTCGCTTTGCTGGTGATTGCACCTCTGAGTGCGGCAACCGCG
+>lcl|NC_000913.3_cds_NP_417667.1_3145 [gene=lptA] [locus_tag=b3200] [db_xref=ASAP:ABE-0010510,UniProtKB/Swiss-Prot:P0ADV1] [protein=lipopolysaccharide export ABC transporter periplasmic binding protein; Lipid A binding protein; LPS export and assembly protein] [protein_id=NP_417667.1] [location=3343380..3343937]
+ATGAAATTCAAAACAAACAAACTCAGCCTTAATCTTGTGCTTGCCAGCTCACTTCTGGCCGCCAGCATTCCGGCATTTGCC
+>lcl|NC_000913.3_cds_NP_417701.1_3179 [gene=degQ] [locus_tag=b3234] [db_xref=ASAP:ABE-0010609,UniProtKB/Swiss-Prot:P39099] [protein=serine endoprotease, periplasmic] [protein_id=NP_417701.1] [location=3380743..3382110]
+ATGAAAAAACAAACCCAGCTGTTGAGTGCATTAGCGTTAAGTGTCGGGTTAACTCTCTCGGCGTCATTTCAGGCCGTCGCG
+>lcl|NC_000913.3_cds_NP_417705.2_3183 [gene=yhcN] [locus_tag=b3238] [db_xref=ASAP:ABE-0010623,UniProtKB/Swiss-Prot:P64614] [protein=cadmium and peroxide resistance protein, stress-induced] [protein_id=NP_417705.2] [location=3385538..3385801]
+ATGAAAATCAAAACCACTGTTGCTGCATTAAGCGTACTTTCTGTTCTCTCTTTCGGTGCATTCGCT
+>lcl|NC_000913.3_cds_NP_417731.1_3210 [gene=acrE] [locus_tag=b3265] [db_xref=ASAP:ABE-0010722,UniProtKB/Swiss-Prot:P24180] [protein=cytoplasmic membrane lipoprotein] [protein_id=NP_417731.1] [location=3413864..3415021]
+ATGACGAAACATGCCAGGTTTTTCCTCCTGCCCTCCTTTATTCTGATCTCCGCGGCTTTAATCGCC
+>lcl|NC_000913.3_cds_NP_417733.1_3212 [gene=yhdV] [locus_tag=b3267] [db_xref=ASAP:ABE-0010728,UniProtKB/Swiss-Prot:P64622] [protein=putative outer membrane protein] [protein_id=NP_417733.1] [location=3418390..3418611]
+ATGAAAAGATTAATTCCTGTGGCATTGCTCACCGCATTGCTGGCGGGCTGTGCTCACGAT
+>lcl|NC_000913.3_cds_NP_417784.4_3263 [gene=gspD] [locus_tag=b3325] [db_xref=ASAP:ABE-0010879,UniProtKB/Swiss-Prot:P45758] [protein=general secretory pathway component, cryptic] [protein_id=NP_417784.4] [location=3456377..3458329]
+ATGAAAGGACTCAATAAAATCACCTGCTGCTTGCTGGCAGCACTACTCATGCCTTGTGCAGGACACGCT
+>lcl|NC_000913.3_cds_NP_417797.1_3276 [gene=chiA] [locus_tag=b3338] [db_xref=ASAP:ABE-0010909,UniProtKB/Swiss-Prot:P13656] [protein=periplasmic endochitinase] [protein_id=NP_417797.1] [location=complement(3467160..3469853)]
+ATGAAATTAAATATATTTACTAAATCTATGATTGGTATGGGGCTGGTGTGTTCCGCTCTGCCAGCATTGGCA
+>lcl|NC_000913.3_cds_NP_417806.1_3285 [gene=fkpA] [locus_tag=b3347] [db_xref=ASAP:ABE-0010938,UniProtKB/Swiss-Prot:P45523] [protein=FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)] [protein_id=NP_417806.1] [location=complement(3476607..3477419)]
+ATGAAATCACTGTTTAAAGTAACGCTGCTGGCGACCACAATGGCCGTTGCCCTGCATGCACCAATCACTTTTGCT
+>lcl|NC_000913.3_cds_NP_417822.1_3302 [gene=ppiA] [locus_tag=b3363] [db_xref=ASAP:ABE-0010992,UniProtKB/Swiss-Prot:P0AFL3] [protein=peptidyl-prolyl cis-trans isomerase A (rotamase A)] [protein_id=NP_417822.1] [location=complement(3491725..3492297)]
+ATGTTCAAATCGACCCTGGCGGCGATGGCTGCTGTTTTCGCTCTTTCTGCTCTTTCTCCCGCAGCAATGGCA
+>lcl|NC_000913.3_cds_NP_417850.1_3329 [gene=hofQ] [locus_tag=b3391] [db_xref=ASAP:ABE-0011071,UniProtKB/Swiss-Prot:P34749] [protein=DNA catabolic putative fimbrial transporter] [protein_id=NP_417850.1] [location=complement(3519465..3520703)]
+ATGAAGCAATGGATAGCCGCACTACTGTTGATGCTGATACCCGGCGTACAGGCG
+>lcl|NC_000913.3_cds_NP_417904.1_3383 [gene=ggt] [locus_tag=b3447] [db_xref=ASAP:ABE-0011257,UniProtKB/Swiss-Prot:P18956] [protein=gamma-glutamyltranspeptidase] [protein_id=NP_417904.1] [location=complement(3585081..3586823)]
+ATGATAAAACCGACGTTTTTACGCCGGGTGGCCATTGCTGCTCTGCTCTCAGGAAGTTGTTTTAGCGCCGCCGCC
+>lcl|NC_000913.3_cds_NP_417905.1_3384 [gene=yhhA] [locus_tag=b3448] [db_xref=ASAP:ABE-0011262,UniProtKB/Swiss-Prot:P0ADX7] [protein=DUF2756 family protein] [protein_id=NP_417905.1] [location=3586943..3587383]
+ATGAAACGACTTCTGATTCTTACGGCACTCCTGCCGTTTGTCGGCTTTGCA
+>lcl|NC_000913.3_cds_NP_417910.1_3389 [gene=ugpB] [locus_tag=b3453] [db_xref=ASAP:ABE-0011274,UniProtKB/Swiss-Prot:P0AG80] [protein=sn-glycerol-3-phosphate ABC transporter periplasmic binding protein] [protein_id=NP_417910.1] [location=complement(3591009..3592325)]
+ATGAAACCGTTACATTATACAGCTTCAGCACTGGCGCTCGGACTGGCGTTAATGGGGAATGCACAGGCA
+>lcl|NC_000913.3_cds_NP_417915.1_3394 [gene=livK] [locus_tag=b3458] [db_xref=ASAP:ABE-0011292,UniProtKB/Swiss-Prot:P04816] [protein=leucine transporter subunit] [protein_id=NP_417915.1] [location=complement(3596451..3597560)]
+ATGAAACGGAATGCGAAAACTATCATCGCAGGGATGATTGCACTGGCAATTTCACACACCGCTATGGCT
+>lcl|NC_000913.3_cds_YP_026223.1_3396 [gene=livJ] [locus_tag=b3460] [db_xref=ASAP:ABE-0011299,UniProtKB/Swiss-Prot:P0AD96] [protein=branched-chain amino acid ABC transporter periplasmic binding protein] [protein_id=YP_026223.1] [location=complement(3598555..3599658)]
+ATGAACATAAAGGGTAAAGCGTTACTGGCAGGATGTATCGCGCTGGCATTCAGCAATATGGCTCTGGCA
+>lcl|NC_000913.3_cds_NP_417933.1_3412 [gene=nikA] [locus_tag=b3476] [db_xref=ASAP:ABE-0011354,UniProtKB/Swiss-Prot:P33590] [protein=nickel/heme ABC transporter periplasmic binding protein] [protein_id=NP_417933.1] [location=3613667..3615241]
+ATGCTCTCCACACTCCGCCGCACTCTATTTGCGCTGCTGGCTTGTGCGTCTTTTATCGTCCATGCC
+>lcl|NC_000913.3_cds_NP_417967.1_3447 [gene=hdeA] [locus_tag=b3510] [db_xref=ASAP:ABE-0011464,UniProtKB/Swiss-Prot:P0AES9] [protein=stress response protein acid-resistance protein] [protein_id=NP_417967.1] [location=complement(3656408..3656740)]
+ATGAAAAAAGTATTAGGCGTTATTCTTGGTGGTCTGCTTCTTCTGCCAGTTGTGAGCAATGCA
+>lcl|NC_000913.3_cds_NP_417970.1_3450 [gene=mdtE] [locus_tag=b3513] [db_xref=ASAP:ABE-0011478,UniProtKB/Swiss-Prot:P37636] [protein=anaerobic multidrug efflux transporter, ArcA-regulated] [protein_id=NP_417970.1] [location=3659232..3660389]
+ATGAACAGAAGAAGAAAGCTGTTAATACCGTTGTTATTCTGCGGCGCGATGCTCACCGCCTGCGAT
+>lcl|NC_000913.3_cds_NP_417984.1_3464 [gene=yhjJ] [locus_tag=b3527] [db_xref=ASAP:ABE-0011524,UniProtKB/Swiss-Prot:P37648] [protein=putative periplasmic M16 family chaperone] [protein_id=NP_417984.1] [location=complement(3680444..3681940)]
+ATGCAGGGCACAAAAATTCGACTTTTAGCGGGCGGTTTGCTGATGATGGCCACTGCTGGCTATGTGCAGGCA
+>lcl|NC_000913.3_cds_YP_026226.4_3467 [gene=bcsC] [locus_tag=b3530] [db_xref=ASAP:ABE-0011538,UniProtKB/Swiss-Prot:P37650] [protein=cellulose synthase subunit] [protein_id=YP_026226.4] [location=complement(3685700..3689173)]
+ATGCGCAAATTCACACTAAACATATTCACGCTTTCCCTCGGTCTGGCCGTCATGCCGATGGTCGAGGCA
+>lcl|NC_000913.3_cds_NP_417988.1_3468 [gene=bcsZ] [locus_tag=b3531] [db_xref=ASAP:ABE-0011541,UniProtKB/Swiss-Prot:P37651] [protein=endo-1,4-D-glucanase] [protein_id=NP_417988.1] [location=complement(3689155..3690261)]
+ATGAATGTGTTGCGTAGTGGAATCGTGACGATGCTGCTGCTGGCTGCCTTTAGTGTTCAGGCA
+>lcl|NC_000913.3_cds_NP_417989.1_3469 [gene=bcsB] [locus_tag=b3532] [db_xref=ASAP:ABE-0011545,UniProtKB/Swiss-Prot:P37652] [protein=regulator of cellulose synthase, cyclic di-GMP binding] [protein_id=NP_417989.1] [location=complement(3690268..3692607)]
+ATGAAAAGAAAACTATTCTGGATTTGTGCAGTGGCTATGGGGATGAGTGCGTTCCCCTCTTTCATGACGCAGGCG
+>lcl|NC_000913.3_cds_NP_418001.1_3482 [gene=dppA] [locus_tag=b3544] [db_xref=ASAP:ABE-0011576,UniProtKB/Swiss-Prot:P23847] [protein=dipeptide/heme ABC transporter periplasmic binding protein; dipeptide chemotaxis receptor] [protein_id=NP_418001.1] [location=complement(3706098..3707705)]
+ATGCGTATTTCCTTGAAAAAGTCAGGGATGCTGAAGCTTGGTCTCAGCCTGGTGGCTATGACCGTCGCAGCAAGTGTTCAGGCT
+>lcl|NC_000913.3_cds_YP_026228.1_3489 [gene=yiaD] [locus_tag=b3552] [db_xref=ASAP:ABE-0011601,UniProtKB/Swiss-Prot:P37665] [protein=multicopy suppressor of bamB; outer membrane lipoprotein] [protein_id=YP_026228.1] [location=3716547..3717206]
+ATGAAGAAACGTGTTTATCTTATTGCCGCCGTAGTGAGTGGCGCTCTGGCG
+>lcl|NC_000913.3_cds_YP_588469.1_3500 [gene=ysaB] [locus_tag=b4553] [db_xref=ASAP:ABE-0285074,UniProtKB/Swiss-Prot:Q2M7M3] [protein=uncharacterized protein] [protein_id=YP_588469.1] [location=complement(3725413..3725712)]
+ATGATGATGAACGCTTTCTTTCCGGCAATGGCGCTTATGGTGCTAGTGGGTTGTTCTATACCGTCACCCGTGCAGAAA
+>lcl|NC_000913.3_cds_NP_418028.1_3511 [gene=malS] [locus_tag=b3571] [db_xref=ASAP:ABE-0011668,UniProtKB/Swiss-Prot:P25718] [protein=alpha-amylase] [protein_id=NP_418028.1] [location=3737497..3739527]
+ATGAAACTCGCCGCCTGTTTTCTGACACTCCTTCCTGGCTTCGCCGTTGCC
+>lcl|NC_000913.3_cds_NP_418036.1_3519 [gene=yiaO] [locus_tag=b3579] [db_xref=ASAP:ABE-0011694,UniProtKB/Swiss-Prot:P37676] [protein=2,3-diketo-L-gulonate-binding periplasmic protein] [protein_id=NP_418036.1] [location=3746094..3747080]
+ATGAAATTACGCTCTGTAACCTACGCATTATTCATTGCTGGCCTGGCTGCATTCAGCACATCTTCTCTGGCG
+>lcl|NC_000913.3_cds_NP_418041.1_3526 [gene=yiaT] [locus_tag=b3584] [db_xref=ASAP:ABE-0011704,UniProtKB/Swiss-Prot:P37681] [protein=putative outer membrane protein] [protein_id=NP_418041.1] [location=complement(3751128..3751868)]
+ATGTTAATTAATCGCAATATTGTGGCGTTATTTGCGTTGCCTTTTATGGCAAGCGCAACTGCT
+>lcl|NC_000913.3_cds_NP_418070.6_3560 [gene=envC] [locus_tag=b3613] [db_xref=ASAP:ABE-0011820,UniProtKB/Swiss-Prot:P37690] [protein=activator of AmiB,C murein hydrolases, septal ring factor] [protein_id=NP_418070.6] [location=3786838..3788097]
+ATGACACGGGCCGTGAAACCGCGCAGGTTTGCAATCAGGCCCATCATCTACGCCAGCGTTCTTAGCGCTGGCGTATTGTTGTGCGCCTTTTCCGCCCACGCG
+>lcl|NC_000913.3_cds_NP_418071.4_3561 [gene=yibQ] [locus_tag=b3614] [db_xref=ASAP:ABE-0011824,UniProtKB/Swiss-Prot:P37691] [protein=putative polysaccharide deacetylase] [protein_id=NP_418071.4] [location=3788101..3789060]
+TTGTTTCCATTTCGTCGTAACGTTCTTGCATTTGCCGCTCTGTTGGCGCTCTCCTCCCCCGTACTTGCT
+>lcl|NC_000913.3_cds_NP_418104.2_3594 [gene=ligB] [locus_tag=b3647] [db_xref=ASAP:ABE-0011923,UniProtKB/Swiss-Prot:P25772] [protein=DNA ligase, NAD(+)-dependent] [protein_id=NP_418104.2] [location=complement(3819488..3821170)]
+ATGAAAGTATGGATGGCGATATTAATAGGTATCTTGTGCTGGCAATCATCTGTGTGGGCG
+>lcl|NC_000913.3_cds_NP_418143.2_3636 [gene=yidQ] [locus_tag=b3688] [db_xref=ASAP:ABE-0012063,UniProtKB/Swiss-Prot:P0ADM4] [protein=DUF1375 family outer membrane protein] [protein_id=NP_418143.2] [location=3867728..3868060]
+ATGATAAGAAATGTGTTGTTAGCGTTCATGATATGCAGCGGAATGACATTACTCGGA
+>lcl|NC_000913.3_cds_NP_418175.3_3668 [gene=yieL] [locus_tag=b3719] [db_xref=ASAP:ABE-0012163,UniProtKB/Swiss-Prot:P31471] [protein=putative xylanase] [protein_id=NP_418175.3] [location=complement(3899408..3900577)]
+ATGAATATAAAAATTGCTGCTTTAACGCTGGCTATTGCCAGCGGTATTTCTGCTCAGTGGGCCATAGCA
+>lcl|NC_000913.3_cds_NP_418176.1_3669 [gene=bglH] [locus_tag=b3720] [db_xref=ASAP:ABE-0012165,UniProtKB/Swiss-Prot:P26218] [protein=carbohydrate-specific outer membrane porin, cryptic] [protein_id=NP_418176.1] [location=complement(3900604..3902220)]
+ATGTTTAGACGAAATCTTATTACCTCTGCCATCTTATTAATGGCACCGTTAGCCTTTTCTGCACAATCATTGGCT
+>lcl|NC_000913.3_cds_NP_418184.1_3677 [gene=pstS] [locus_tag=b3728] [db_xref=ASAP:ABE-0012190,UniProtKB/Swiss-Prot:P0AG82] [protein=phosphate ABC transporter periplasmic binding protein] [protein_id=NP_418184.1] [location=complement(3910485..3911525)]
+ATGAAAGTTATGCGTACCACCGTCGCAACTGTTGTCGCCGCGACCTTATCGATGAGTGCTTTCTCTGTGTTTGCA
+>lcl|NC_000913.3_cds_NP_418207.1_3700 [gene=rbsB] [locus_tag=b3751] [db_xref=ASAP:ABE-0012264,UniProtKB/Swiss-Prot:P02925] [protein=D-ribose ABC transporter periplasmic binding protein; ribose chemotaxis receptor] [protein_id=NP_418207.1] [location=3936278..3937168]
+ATGAACATGAAAAAACTGGCTACCCTGGTTTCCGCTGTTGCGCTAAGCGCCACCGTCAGTGCGAATGCGATGGCA
+>lcl|NC_000913.3_cds_NP_418245.1_3738 [gene=aslA] [locus_tag=b3801] [db_xref=ASAP:ABE-0012411,UniProtKB/Swiss-Prot:P25549] [protein=putative Ser-type periplasmic non-aryl sulfatase] [protein_id=NP_418245.1] [location=complement(3984352..3986007)]
+ATGGAATTTTCGTTTTCACCCAAACGTCTTGTTGTTGCTGTCGCCGCCGCTCTTCCTCTCATGGCCAGCGCA
+>lcl|NC_000913.3_cds_YP_588473.1_3745 [gene=yifL] [locus_tag=b4558] [db_xref=ASAP:ABE-0285079,UniProtKB/Swiss-Prot:P0ADN6] [protein=putative lipoprotein] [protein_id=YP_588473.1] [location=3994522..3994725]
+ATGAAAAACGTGTTTAAGGCACTCACTGTATTACTTACTCTCTTCAGCCTGACGGGCTGCGGTCTGAAA
+>lcl|NC_000913.3_cds_YP_026261.1_3751 [gene=yigE] [locus_tag=b4482] [db_xref=ASAP:ABE-0174110,UniProtKB/Swiss-Prot:P27840] [protein=DUF2233 family protein] [protein_id=YP_026261.1] [location=complement(4000292..4001056)]
+ATGGCGCATCAGCTACTCATTGGTAAAGGAATGATCACCTTGAATCTCAAACGGATTTTTCTCGCCCTCACCTTACTTCCCTTGTTTGCTGTTGCC
+>lcl|NC_000913.3_cds_NP_418265.1_3757 [gene=pldA] [locus_tag=b3821] [db_xref=ASAP:ABE-0012479,UniProtKB/Swiss-Prot:P0A921] [protein=outer membrane phospholipase A] [protein_id=NP_418265.1] [location=4004862..4005731]
+ATGCGGACTCTGCAGGGCTGGTTGTTGCCGGTGTTTATGTTGCCTATGGCAGTATATGCA
+>lcl|NC_000913.3_cds_NP_418297.1_3789 [gene=dsbA] [locus_tag=b3860] [db_xref=ASAP:ABE-0012606,UniProtKB/Swiss-Prot:P0AEG4] [protein=periplasmic protein disulfide isomerase I] [protein_id=NP_418297.1] [location=4043418..4044044]
+ATGAAAAAGATTTGGCTGGCGCTGGCTGGTTTAGTTTTAGCGTTTAGCGCATCGGCG
+>lcl|NC_000913.3_cds_NP_418352.1_3845 [gene=sbp] [locus_tag=b3917] [db_xref=ASAP:ABE-0012794,UniProtKB/Swiss-Prot:P0AG78] [protein=sulfate transporter subunit] [protein_id=NP_418352.1] [location=4108834..4109823]
+ATGAACAAGTGGGGCGTAGGGTTAACATTTTTGCTGGCGGCAACCAGCGTTATGGCA
+>lcl|NC_000913.3_cds_NP_418372.1_3865 [gene=yiiX] [locus_tag=b3937] [db_xref=ASAP:ABE-0012869,UniProtKB/Swiss-Prot:P32167] [protein=putative lipid binding hydrolase, DUF830 family protein] [protein_id=NP_418372.1] [location=complement(4127286..4127894)]
+ATGAAAAACAGGCTGCTGATCCTCAGCCTGCTGGTTTCTGTACCTGCCTTTGCC
+>lcl|NC_000913.3_cds_NP_418379.1_3872 [gene=yijF] [locus_tag=b3944] [db_xref=ASAP:ABE-0012908,UniProtKB/Swiss-Prot:P32668] [protein=DUF1287 family protein] [protein_id=NP_418379.1] [location=complement(4137040..4137657)]
+ATGAAAGCTTCACTGGCGCTGCTCAGCCTGCTAACGGCATTTACCAGCCACTCC
+>lcl|NC_000913.3_cds_NP_418401.1_3893 [gene=btuB] [locus_tag=b3966] [db_xref=ASAP:ABE-0012987,UniProtKB/Swiss-Prot:P06129] [protein=vitamin B12/cobalamin outer membrane transporter] [protein_id=NP_418401.1] [location=4163639..4165483]
+ATGATTAAAAAAGCTTCGCTGCTGACGGCGTGTTCCGTCACGGCATTTTCCGCTTGGGCA
+>lcl|NC_000913.3_cds_NP_418430.2_3921 [gene=zraP] [locus_tag=b4002] [db_xref=ASAP:ABE-0013081,UniProtKB/Swiss-Prot:P0AAA9] [protein=Zn-dependent periplasmic chaperone] [protein_id=NP_418430.2] [location=complement(4201263..4201688)]
+ATGAAACGGAACACGAAAATTGCCCTGGTAATGATGGCGCTTTCAGCAATGGCGATGGGATCGACATCTGCATTTGCT
+>lcl|NC_000913.3_cds_NP_418450.1_3941 [gene=yjbE] [locus_tag=b4026] [db_xref=ASAP:ABE-0013168,UniProtKB/Swiss-Prot:P0AF45] [protein=extracellular polysaccharide production threonine-rich protein] [protein_id=NP_418450.1] [location=4235906..4236148]
+ATGAAAAAAGTTCTGTATGGCATTTTTGCCATATCTGCGCTTGCGGCGACTTCTGCGTGGGCT
+>lcl|NC_000913.3_cds_NP_418451.4_3942 [gene=yjbF] [locus_tag=b4027] [db_xref=ASAP:ABE-0013172,UniProtKB/Swiss-Prot:P32687] [protein=extracellular polysaccharide production lipoprotein] [protein_id=NP_418451.4] [location=4236262..4236900]
+GTGAAGCGACCTGCACTCATTCTTATCTGCCTGTTATTACAGGCCTGTTCAGCCACGACT
+>lcl|NC_000913.3_cds_NP_418452.1_3943 [gene=yjbG] [locus_tag=b4028] [db_xref=ASAP:ABE-0013174,UniProtKB/Swiss-Prot:P32688] [protein=extracellular polysaccharide export OMA protein] [protein_id=NP_418452.1] [location=4236897..4237634]
+ATGATTAAACAAACTATTGTCGCGTTGCTTTTGAGTGTGGGAGCGTCATCGGTCTTCGCG
+>lcl|NC_000913.3_cds_NP_418453.1_3944 [gene=yjbH] [locus_tag=b4029] [db_xref=ASAP:ABE-0013176,UniProtKB/Swiss-Prot:P32689] [protein=DUF940 family extracellular polysaccharide protein] [protein_id=NP_418453.1] [location=4237634..4239730]
+ATGAAAAAAAGACATCTGCTTAGCTTACTGGCGCTGGGCATTAGCACAGCTTGCTACGGC
+>lcl|NC_000913.3_cds_NP_418458.1_3950 [gene=malE] [locus_tag=b4034] [db_xref=ASAP:ABE-0013200,UniProtKB/Swiss-Prot:P0AEX9] [protein=maltose transporter subunit] [protein_id=NP_418458.1] [location=complement(4245229..4246419)]
+ATGAAAATAAAAACAGGTGCACGCATCCTCGCATTATCCGCATTAACGACGATGATGTTTTCCGCCTCGGCTCTCGCC
+>lcl|NC_000913.3_cds_NP_418460.1_3952 [gene=lamB] [locus_tag=b4036] [db_xref=ASAP:ABE-0013218,UniProtKB/Swiss-Prot:P02943] [protein=maltose outer membrane porin (maltoporin)] [protein_id=NP_418460.1] [location=4247971..4249311]
+ATGATGATTACTCTGCGCAAACTTCCTCTGGCGGTTGCCGTCGCAGCGGGCGTAATGTCTGCTCAGGCAATGGCT
+>lcl|NC_000913.3_cds_NP_418461.1_3953 [gene=malM] [locus_tag=b4037] [db_xref=ASAP:ABE-0013221,UniProtKB/Swiss-Prot:P03841] [protein=maltose regulon periplasmic protein] [protein_id=NP_418461.1] [location=4249554..4250474]
+ATGAAAATGAATAAAAGTCTCATCGTCCTCTGTTTATCAGCAGGGTTACTGGCAAGCGCGCCTGGAATTAGCCTTGCC
+>lcl|NC_000913.3_cds_NP_418479.1_3972 [gene=aphA] [locus_tag=b4055] [db_xref=ASAP:ABE-0013283,UniProtKB/Swiss-Prot:P0AE22] [protein=acid phosphatase/phosphotransferase, class B, non-specific] [protein_id=NP_418479.1] [location=4269414..4270127]
+ATGCGCAAGATCACACAGGCAATCAGTGCCGTTTGCTTATTGTTCGCTCTAAACAGTTCCGCTGTTGCCCTGGCC
+>lcl|NC_000913.3_cds_NP_418491.1_3984 [gene=actP] [locus_tag=b4067] [db_xref=ASAP:ABE-0013328,UniProtKB/Swiss-Prot:P32705] [protein=acetate transporter] [protein_id=NP_418491.1] [location=complement(4283253..4284902)]
+ATGAAAAGAGTTCTGACGGCGCTTGCCGCCACACTCCCTTTCGCAGCTAACGCC
+>lcl|NC_000913.3_cds_NP_418494.1_3987 [gene=nrfA] [locus_tag=b4070] [db_xref=ASAP:ABE-0013342,UniProtKB/Swiss-Prot:P0ABK9] [protein=nitrite reductase, formate-dependent, cytochrome] [protein_id=NP_418494.1] [location=4287764..4289200]
+ATGACAAGGATAAAAATAAACGCACGCCGTATCTTCAGCTTATTGATTCCTTTTTTCTTTTTCACTTCTGTTCACGCT
+>lcl|NC_000913.3_cds_NP_418495.2_3988 [gene=nrfB] [locus_tag=b4071] [db_xref=ASAP:ABE-0013344,UniProtKB/Swiss-Prot:P0ABL1] [protein=nitrite reductase, formate-dependent, penta-heme cytochrome c] [protein_id=NP_418495.2] [location=4289245..4289811]
+ATGAGCGTATTACGTTCGTTATTAACTGCCGGGGTGCTGGCGTCGGGCCTGTTGTGGAGCCTGAACGGAATTACCGCTACCCCTGCGGCGCAGGCA
+>lcl|NC_000913.3_cds_NP_418499.1_3992 [gene=nrfF] [locus_tag=b4075] [db_xref=ASAP:ABE-0013352,UniProtKB/Swiss-Prot:P32711] [protein=heme lyase (NrfEFG) for insertion of heme into c552, subunit NrfF] [protein_id=NP_418499.1] [location=4293163..4293546]
+ATGAATAAAGGGCTTCTCACGCTACTGCTGTTATTTACCTGTTTTGCGCACGCT
+>lcl|NC_000913.3_cds_NP_418502.1_3995 [gene=yjcO] [locus_tag=b4078] [db_xref=ASAP:ABE-0013360,UniProtKB/Swiss-Prot:P0AF56] [protein=Sel1 family TPR-like repeat protein] [protein_id=NP_418502.1] [location=complement(4296436..4297125)]
+ATGAAAAAAATTATCGCATTGATGTTGTTTTTGACATTCTTTGCCCACGCC
+>lcl|NC_000913.3_cds_NP_418507.2_4001 [gene=yjcS] [locus_tag=b4083] [db_xref=ASAP:ABE-0013377,UniProtKB/Swiss-Prot:P32717] [protein=metallo-beta-lactamase superfamily protein] [protein_id=NP_418507.2] [location=complement(4304612..4306597)]
+ATGAATAACTCTCGGTTATTCCGTTTGAGCAGGATTGTTATTGCGTTAACTGCCGCCAGCGGCATGATGGTAAATACCGCTAACGCG
+>lcl|NC_000913.3_cds_NP_418512.1_4006 [gene=alsB] [locus_tag=b4088] [db_xref=ASAP:ABE-0013398,UniProtKB/Swiss-Prot:P39265] [protein=D-allose ABC transporter periplasmic binding protein] [protein_id=NP_418512.1] [location=complement(4311107..4312042)]
+ATGAATAAATATCTGAAATATTTCAGCGGCACACTCGTGGGCTTAATGTTGTCAACCAGCGCTTTTGCT
+>lcl|NC_000913.3_cds_YP_026281.1_4009 [gene=yjdP] [locus_tag=b4487] [db_xref=ASAP:ABE-0174120,UniProtKB/Swiss-Prot:Q6BEX5] [protein=putative periplasmic protein] [protein_id=YP_026281.1] [location=4313868..4314197]
+ATGAAACGCTTTCCGCTATTTCTTTTATTCACCCTGCTCACGCTGTCCACCGTTCCGGCCCAGGCC
+>lcl|NC_000913.3_cds_NP_418529.1_4022 [gene=phnD] [locus_tag=b4105] [db_xref=ASAP:ABE-0013442,UniProtKB/Swiss-Prot:P16682] [protein=phosphonate ABC transporter periplasmic binding protein] [protein_id=NP_418529.1] [location=complement(4323336..4324352)]
+ATGAACGCTAAGATAATTGCCTCGCTGGCCTTCACCAGCATGTTCAGCCTCAGCACCCTGTTAAGCCCGGCGCACGCC
+>lcl|NC_000913.3_cds_NP_418559.1_4055 [gene=dsbD] [locus_tag=b4136] [db_xref=ASAP:ABE-0013539,UniProtKB/Swiss-Prot:P36655] [protein=thiol:disulfide interchange protein and activator of DsbC] [protein_id=NP_418559.1] [location=complement(4363345..4365042)]
+ATGGCTCAACGCATCTTTACGCTGATCCTGCTACTTTGCAGCACTTCCGTTTTTGCC
+>lcl|NC_000913.3_cds_NP_418568.2_4063 [gene=yjeI] [locus_tag=b4144] [db_xref=ASAP:ABE-0013572,UniProtKB/Swiss-Prot:P0AF70] [protein=DUF4156 family lipoprotein] [protein_id=NP_418568.2] [location=4372809..4373162]
+ATGCACGTAAAATACTTAGCAGGGATTGTCGGTGCCGCGCTACTGATGGCGGGTTGTAGCTCCAGCAACGAATTGAGTGCT
+>lcl|NC_000913.3_cds_YP_026283.1_4067 [gene=ecnA] [locus_tag=b4410] [db_xref=ASAP:ABE-0047210,UniProtKB/Swiss-Prot:P0ADB4] [protein=entericidin A membrane lipoprotein, antidote entericidin B] [protein_id=YP_026283.1] [location=4376317..4376442]
+ATGATGAAACGCCTTATCGTTCTTGTTTTGCTTGCCAGCACGCTGCTCACGGGCTGTAACACCGCT
+>lcl|NC_000913.3_cds_YP_026284.1_4068 [gene=ecnB] [locus_tag=b4411] [db_xref=ASAP:ABE-0047211,UniProtKB/Swiss-Prot:P0ADB7] [protein=entericidin B membrane lipoprotein] [protein_id=YP_026284.1] [location=4376553..4376699]
+ATGGTGAAGAAGACAATTGCAGCGATCTTTTCTGTTCTGGTGCTTTCAACAGTATTAACTGCC
+>lcl|NC_000913.3_cds_NP_418573.1_4070 [gene=blc] [locus_tag=b4149] [db_xref=ASAP:ABE-0013590,UniProtKB/Swiss-Prot:P0A901] [protein=outer membrane lipoprotein cell division and growth lipocalin] [protein_id=NP_418573.1] [location=complement(4377189..4377722)]
+ATGCGCCTGCTCCCTCTCGTTGCCGCAGCGACAGCTGCATTTCTGGTCGTTGCC
+>lcl|NC_000913.3_cds_NP_418583.1_4080 [gene=mscM] [locus_tag=b4159] [db_xref=ASAP:ABE-0013621,UniProtKB/Swiss-Prot:P39285] [protein=mechanosensitive channel protein, miniconductance] [protein_id=NP_418583.1] [location=complement(4386047..4389370)]
+GTGCGCCTGATTATCACTTTTCTGATGGCCTGGTGCCTCAGTTGGGGGGCGTACGCC
+>lcl|NC_000913.3_cds_NP_418590.1_4088 [gene=amiB] [locus_tag=b4169] [db_xref=ASAP:ABE-0013653,UniProtKB/Swiss-Prot:P26365] [protein=N-acetylmuramoyl-l-alanine amidase II] [protein_id=NP_418590.1] [location=4396065..4397402]
+ATGATGTATCGCATCAGAAATTGGTTGGTAGCGACGCTGCTGCTGCTGTGCACGCCGGTGGGTGCC
+>lcl|NC_000913.3_cds_NP_418634.1_4132 [gene=cpdB] [locus_tag=b4213] [db_xref=ASAP:ABE-0013782,UniProtKB/Swiss-Prot:P08331] [protein=2':3'-cyclic-nucleotide 2'-phosphodiesterase] [protein_id=NP_418634.1] [location=complement(4434622..4436565)]
+ATGATTAAGTTTAGCGCAACGCTCCTGGCCACGCTGATTGCCGCCAGTGTGAATGCA
+>lcl|NC_000913.3_cds_NP_418637.1_4135 [gene=ytfJ] [locus_tag=b4216] [db_xref=ASAP:ABE-0013792,UniProtKB/Swiss-Prot:P39187] [protein=putative transcriptional regulator] [protein_id=NP_418637.1] [location=complement(4438708..4439262)]
+ATGACCCTACGCAAGATTCTGGCACTCACCTGCCTGCTGTTGCCGATGATGGCTTCCGCA
+>lcl|NC_000913.3_cds_NP_418641.1_4139 [gene=tamA] [locus_tag=b4220] [db_xref=ASAP:ABE-0013809,UniProtKB/Swiss-Prot:P0ADE4] [protein=translocation and assembly module for autotransporter export, outer membrane subunit] [protein_id=NP_418641.1] [location=4442382..4444115]
+GTGCGCTATATCCGACAGTTATGCTGTGTAAGCTTACTCTGCTTAAGCGGATCTGCCGTCGCC
+>lcl|NC_000913.3_cds_NP_418648.1_4145 [gene=ytfQ] [locus_tag=b4227] [db_xref=ASAP:ABE-0013829,UniProtKB/Swiss-Prot:P39325] [protein=galactofuranose ABC transporter periplasmic binding protein] [protein_id=NP_418648.1] [location=4449962..4450918]
+ATGTGGAAACGCTTACTTATAGTCTCTGCAGTCTCGGCAGCCATGTCGTCTATGGCGTTGGCC
+>lcl|NC_000913.3_cds_NP_418710.4_4204 [gene=fecB] [locus_tag=b4290] [db_xref=ASAP:ABE-0014065,UniProtKB/Swiss-Prot:P15028] [protein=ferric citrate ABC transporter periplasmic binding protein] [protein_id=NP_418710.4] [location=complement(4513406..4514308)]
+ATGTTGGCATTTATCCGTTTTCTTTTTGCAGGCCTGCTGCTGGTGATCAGCCACGCCTTTGCC
+>lcl|NC_000913.3_cds_NP_418711.1_4205 [gene=fecA] [locus_tag=b4291] [db_xref=ASAP:ABE-0014067,UniProtKB/Swiss-Prot:P13036] [protein=TonB-dependent outer membrane ferric citrate transporter and signal transducer; ferric citrate extracelluar receptor; FecR-interacting protein] [protein_id=NP_418711.1] [location=complement(4514353..4516677)]
+ATGACGCCGTTACGCGTTTTTCGTAAAACAACACCTTTGGTTAACACCATTCGCCTGAGCCTGCTGCCGCTGGCCGGTCTCTCGTTTTCCGCTTTTGCT
+>lcl|NC_000913.3_cds_NP_418734.1_4233 [gene=fimA] [locus_tag=b4314] [db_xref=ASAP:ABE-0014145,UniProtKB/Swiss-Prot:P04128] [protein=major type 1 subunit fimbrin (pilin)] [protein_id=NP_418734.1] [location=4543115..4543663]
+ATGAAAATTAAAACTCTGGCAATCGTTGTTCTGTCGGCTCTGTCCCTCAGTTCTACAGCGGCTCTGGCC
+>lcl|NC_000913.3_cds_NP_418740.1_4239 [gene=fimH] [locus_tag=b4320] [db_xref=ASAP:ABE-0014157,UniProtKB/Swiss-Prot:P08191] [protein=minor component of type 1 fimbriae] [protein_id=NP_418740.1] [location=4548808..4549710]
+ATGAAACGAGTTATTACCCTGTTTGCTGTACTGCTGATGGGCTGGTCGGTAAATGCC
+>lcl|NC_000913.3_cds_NP_418780.2_4277 [gene=yjjA] [locus_tag=b4360] [db_xref=ASAP:ABE-0014301,UniProtKB/Swiss-Prot:P18390] [protein=putative DUF2501 family periplasmic protein] [protein_id=NP_418780.2] [location=complement(4599695..4600189)]
+ATGATGAAAACTGTTAAACATCTTCTGTGCTGTGCCATTGCCGCCAGCGCATTAATTTCCACCGGGGTGCATGCT
+>lcl|NC_000913.3_cds_NP_418793.1_4291 [gene=osmY] [locus_tag=b4376] [db_xref=ASAP:ABE-0014348,UniProtKB/Swiss-Prot:P0AFH8] [protein=salt-inducible putative ABC transporter periplasmic binding protein] [protein_id=NP_418793.1] [location=4611396..4612001]
+ATGACTATGACAAGACTGAAGATTTCGAAAACTCTGCTGGCTGTAATGTTGACCTCTGCCGTCGCGACCGGCTCTGCCTACGCG
+>lcl|NC_000913.3_cds_NP_418809.4_4308 [gene=slt] [locus_tag=b4392] [db_xref=ASAP:ABE-0014404,UniProtKB/Swiss-Prot:P0AGC3] [protein=lytic murein transglycosylase, soluble] [protein_id=NP_418809.4] [location=4630733..4632670]
+GTGGAAAAAGCCAAACAAGTTACCTGGCGGCTGTTGGCTGCCGGTGTCTGTCTGCTGACGGTCAGCAGCGTGGCGCGAGCC
+>lcl|NC_000913.3_cds_NP_418814.1_4313 [gene=creA] [locus_tag=b4397] [db_xref=ASAP:ABE-0014426,UniProtKB/Swiss-Prot:P0AE91] [protein=putative periplasmic protein] [protein_id=NP_418814.1] [location=4635521..4635994]
+ATGAAATACAAGCATTTGATCCTGTCTTTAAGCCTGATAATGCTGGGGCCATTGGCTCATGCA
