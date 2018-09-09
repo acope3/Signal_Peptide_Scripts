@@ -1,3 +1,12 @@
+## Author: Alex Cope
+## Email: acope3@vols.utk.edu, alexandercope0@gmail.com
+## A script hacked together for checking frequencies of amino acids in signal peptides and 5'-ends of nonsecretory proteins and to generate
+## random peptide sequences with amino acid frequencies comparable to signal peptides. 
+## Not written well because I did not originally intend to put it on github, but I decided to and did not want to clean it up to much
+## for the sake of reproducibility.
+## Expects two commandline inputs, the file with the signal peptide sequences and either the 5'-end sequences or the pseudo-signal peptides
+##
+
 import sys
 import re
 import random 
@@ -70,6 +79,7 @@ def calculateAAFreq(fileName):
 		for line in fin:
 			if line[0] != ">":
 				seq = re.findall(pat,line.strip())
+				#not counting methionine start codon from frequency, ROC-SEMPPR automatically adds this
 				for codon in seq[1:]:
 					if codon == "TAA" or codon == "TAG" or codon == "TGA":
 						continue
@@ -132,19 +142,6 @@ def checkAAFreq(freq_dict):
 	for aa in freq_dict.keys():
 		print aa, freq_dict.get(aa)
 
-
-def compare(freq_1,freq_2,total):
-	observed = []
-	expected = []
-	for aa in aa_dict.keys():
-		observed.append(total * freq_1.get(aa))
-		expected.append(total * freq_2.get(aa))
-	chisq, p = chisquare(observed,expected)
-	print p
-	print observed
-	print expected
-	print pearsonr(observed,expected)
-
 sp_freq,sp_total = calculateAAFreq(sys.argv[1])
 nosp_freq,nosp_total = calculateAAFreq(sys.argv[2])
 
@@ -167,23 +164,6 @@ nosp_freq,nosp_total = calculateAAFreq(sys.argv[2])
 #checkAAFreq(nosp_freq)
 
 
-# if (len(sys.argv) == 4):
-# 	with open(sys.argv[2]) as fin,open(sys.argv[3],'w') as out:
-# 		for line in fin:
-# 			if line[0] == ">":
-# 				out.write(line)
-# 			else:
-# 				out.write("AGT")
-# 				for i in range(1,23):
-# 					rand = random.random()
-# 					aa = probRange(sp_freq,rand)
-# 					codons = aa_dict.get(aa)
-# 					index = random.randint(0,len(codons)-1)
-# 					out.write(codons[index])
-# 				out.write("TAA\n")
-# 	new_psp, new_total = calculateAAFreq(sys.argv[3])
-# 	checkAAFreq(new_psp)
-
 #pat = re.compile(r'[AGCT]{3}')
 cur_freq = {}
 for a in aa_dict.keys():
@@ -197,6 +177,7 @@ with open(sys.argv[2]) as fin, open("pseudo_sp_aa_norm.fasta",'w') as out:
 			gene = line
 		else:
 			seq =re.findall(r'[AGCT]{3}',line.strip())
+			## start sequence with start codon
 			new_seq = [seq[0]]
 			total = 1
 			while total < 23:
